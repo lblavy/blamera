@@ -1,0 +1,61 @@
+{
+  "repository": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+  "revision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+  "license": "cc-by-4.0",
+  "files": [
+    {
+      "file": "README.md",
+      "size": 10312,
+      "sha256": "6c0d6e0cc97d03683a0cd177554c7173a0b173b4857973d4e4dedf01c2c108cc",
+      "gitBlobId": "273649c22a527c4faa3b371387e09a72e2bbccc5"
+    },
+    {
+      "file": "config.json",
+      "size": 1076,
+      "sha256": "ac35de27c1645637a46d3b2f41052365ef52a7c23e169719629381f6b1fb025c",
+      "gitBlobId": "ca3cbbabcf54d5684af60fd278593b7579278758"
+    },
+    {
+      "file": "generation_config.json",
+      "size": 301,
+      "sha256": "e08b63c58a6de96ea4275ac59681cefbf88663a10419e65e1510156061c43a88",
+      "gitBlobId": "0852b0027501bf71b7a2ced362c4d9120be5fd52"
+    },
+    {
+      "file": "model.safetensors",
+      "size": 461429130,
+      "sha256": "5c88b4f7a63934b8be72372b86661e616227c20be4b75612eeee7dca96494217",
+      "gitBlobId": "fe23c335907d999684940c12748a256cdc4095ec"
+    },
+    {
+      "file": "source.spm",
+      "size": 802408,
+      "sha256": "18bb5a422a53a0bd699b005c8086cbd58a85c4be427fd57ca687c958588edcc9",
+      "gitBlobId": "a5c69d95c6dd351ae2e49e04c689b1b0062c3b0c"
+    },
+    {
+      "file": "special_tokens_map.json",
+      "size": 65,
+      "sha256": "09059cedc26bc46bc09a52f05b92d4922e11917e87f3b92059bb1a63a59ab2c4",
+      "gitBlobId": "6dc4d430ddbd24171268d73da061ce9f0b092911"
+    },
+    {
+      "file": "target.spm",
+      "size": 819955,
+      "sha256": "6437b5600d2ae14888939e589773b09bc667c77e81326e20e3f57698a4078593",
+      "gitBlobId": "72e82b6b8331ee0f24d1fca09e27b76c687f2c71"
+    },
+    {
+      "file": "tokenizer_config.json",
+      "size": 337,
+      "sha256": "9cca379c911ab0d3b9138e0de1c521f1d7bad69889e168b3eb0e0f9f47e5a7fd",
+      "gitBlobId": "376b614d11088d4ca501f89ccce619f653b0f75e"
+    },
+    {
+      "file": "vocab.json",
+      "size": 1332010,
+      "sha256": "2994b7def69d6495d8f02369b57e3f04e2474f76ce64eda2921643e1f76fef41",
+      "gitBlobId": "0ae8e956e87472aae2d7f0554a43a8d374672c1e"
+    }
+  ]
+}

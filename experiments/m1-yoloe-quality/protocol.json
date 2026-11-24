@@ -1,0 +1,74 @@
+{
+  "status": "PHASE1_PROPOSED_NO_PREDICTIONS",
+  "seed": 20261027,
+  "lvis_annotation_sha256": "2bf946b92c3037f53c172d80017f5b74ea035f00a21b20e0766b3b638b2363f9",
+  "lvis_split": "val v1, restricted to coco_url /val2017/ (4809 candidates)",
+  "targeted_images": 96,
+  "control_images": 32,
+  "target_min_distinct_images": 6,
+  "rich_target_min": 16,
+  "small_target_min": 16,
+  "rich_definition": "at least20 LVIS annotated instances, all categories, not total true scene objects",
+  "small_definition": "at least1 evaluated GT with native mask area<32^2 pixels",
+  "ade_images": 16,
+  "ade_min_per_category": 4,
+  "profiles": [
+    {
+      "model": "baseline",
+      "agnostic_nms": false,
+      "role": "current baseline"
+    },
+    {
+      "model": "yoloe",
+      "agnostic_nms": true,
+      "role": "PF documented default/main"
+    },
+    {
+      "model": "yoloe",
+      "agnostic_nms": false,
+      "role": "controlled class-aware comparison"
+    }
+  ],
+  "confidence_main": 0.35,
+  "confidence_sensitivity": [
+    0.2,
+    0.35,
+    0.5
+  ],
+  "iou_nms": 0.5,
+  "max_candidates": 300,
+  "max_detections": [
+    20,
+    100
+  ],
+  "mask_logit_threshold": 0.0,
+  "match_box_iou": 0.5,
+  "boundary_tolerance": "max(1,round(.005*sqrt(width^2+height^2))) pixels, Chebyshev square tolerance, own diagnostic F1 not official LVIS AP",
+  "models": {
+    "baseline": {
+      "path": "models/m1-01/yolo11n-seg/yolo11n-seg.onnx",
+      "sha256": "38325721a41fcd732b0a30512ffa8d564b1a8a74ca8c1d6b7e7f37609b2d321b"
+    },
+    "yoloe": {
+      "path": "models/m1-yoloe/yoloe-26n-seg-pf.onnx",
+      "sha256": "c94efd44d029bf6dcf7e713ae4b2d30d1874f761b5c9523fc31c5d1d4a37f2bb"
+    }
+  },
+  "environment_lock_reference": "../m1-yoloe/uv.lock",
+  "environment_lock_sha256": "7578806838cd42b8497e53d66c931fc39de70c8f0d55e60b1a545c92acb67f88",
+  "prediction_gate": "NO INFERENCE until protocol/mapping review, selected images hashes/dimensions/licences/duplicates recorded and final freeze confirmed; runner intentionally absent",
+  "allowed_lvis_image_license_ids": [
+    1,
+    2,
+    4,
+    5
+  ],
+  "rasterizer": {
+    "name": "pycocotools",
+    "version": "2.0.11",
+    "private_path": ".tools/m1-yoloe-quality/pydeps",
+    "wheel_sha256": "ffe806ce535f5996445188f9a35643791dc54beabc61bd81e2b03367356d604f",
+    "licence": "FreeBSD",
+    "uses": "mask.frPyObjects / merge / decode; no OpenCV GT rasterization"
+  }
+}

@@ -1,0 +1,8 @@
+Diagnostic personnel Blamera : aucun remplacement du modèle de production.
+YOLO11n-seg et YOLOE26s/l/x-seg-pf : Ultralytics, AGPL-3.0.
+Voir LICENSE-models-AGPL.txt et NOTICE.json générés : attributions individuelles,
+URLs et licences des14images publiques (NASA, motif synthétique,8LVIS/COCO,4ADE).
+Données/photos non redistribuées ; APK personnel de recherche uniquement.
+Préparation : experiments/m1-yoloe-phone-assets/README.md ; config/benchmark.properties.
+Aucun encodeur MobileCLIP/Apple, donnée personnelle ou connexion réseau.
+https://github.com/ultralytics/assets/releases/tag/v8.4.0

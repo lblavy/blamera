@@ -1,0 +1,15 @@
+{
+  "bundles": [
+    {
+      "bundleName": "audited-jakarta-inject-api-2.0.1",
+      "licenseName": "Apache-2.0",
+      "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "transformationRules": [
+    {
+      "modulePattern": "^jakarta\\.inject:jakarta\\.inject-api:2\\.0\\.1$",
+      "bundleName": "audited-jakarta-inject-api-2.0.1"
+    }
+  ]
+}

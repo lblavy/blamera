@@ -1,0 +1,21 @@
+Blamera photo analysis: YOLOE26-L segmentation, prompt-free, local CPU inference.
+
+Official Ultralytics checkpoint yoloe-26l-seg-pf.pt, assets v8.4.0:
+https://github.com/ultralytics/assets/releases/download/v8.4.0/yoloe-26l-seg-pf.pt
+Checkpoint SHA-256:
+8b0ff5ecfd5baa0ebed509efb00aacff52faae2f6770e7ffa2a223231b9653c0
+Model licence AGPL-3.0; full text at benchmark/LICENSE-models-AGPL.txt.
+
+Local compact export: FP32, opset 17, static batch 1, 640x640 RGB input,
+class-agnostic NMS IoU 0.5, confidence 0.35, at most 20 objects.
+ONNX SHA-256:
+2e94f433084b40fb7d558355af7e50b4ff8a483c875a964e0d308a6984d779b8
+Official ordered vocabulary: 4585 English labels, labels4585.json SHA-256:
+d8973978ecc1d94436964d44124e9893276d94a317de2868c440cb5ea2e2af35
+Preparation and reproducibility: experiments/m1-yoloe-phone-assets/ in Blamera sources.
+The historical benchmark asset paths are shared by the normal photo analysis and
+the debug diagnostic; the binary is packaged once. No internet or paid service used.
+Names are predictions, including fine-grained roles or breeds, not verified facts.
+
+ONNX Runtime 1.31.0: Microsoft Corporation, MIT licence at vision/LICENSE-onnxruntime-MIT.txt.
+Personal local use; no model or corpus publication is performed by this feature.

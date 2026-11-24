@@ -1,0 +1,75 @@
+{
+  "status": "PREPARATION_PENDING_REVIEW_NO_144_PREDICTIONS",
+  "order": [
+    "x",
+    "m",
+    "l"
+  ],
+  "models": {
+    "x": {
+      "size": "x",
+      "path": "models/m1-yoloe-capacity/x/yoloe-26x-seg-pf.pt",
+      "bytes": 193087541,
+      "sha256": "6591e328fc0012a00beba95710d159c26b0e2dd728ee04b0c8eca1fa0ff859f2",
+      "source": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yoloe-26x-seg-pf.pt",
+      "asset_id": 570406216,
+      "acquired_utc": "2026-10-28T11:28:28.8707507Z"
+    },
+    "m": {
+      "size": "m",
+      "path": "models/m1-yoloe-capacity/m/yoloe-26m-seg-pf.pt",
+      "bytes": 85631900,
+      "sha256": "f37e6c82d9d40763b254aff0f846cb5b3153c4726a2ac0003e9890f996e5ec03",
+      "source": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yoloe-26m-seg-pf.pt",
+      "asset_id": 570404449,
+      "acquired_utc": "2026-10-28T11:28:31.6631781Z"
+    },
+    "l": {
+      "size": "l",
+      "path": "models/m1-yoloe-capacity/l/yoloe-26l-seg-pf.pt",
+      "bytes": 94606901,
+      "sha256": "8b0ff5ecfd5baa0ebed509efb00aacff52faae2f6770e7ffa2a223231b9653c0",
+      "source": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yoloe-26l-seg-pf.pt",
+      "asset_id": 570403310,
+      "acquired_utc": "2026-10-28T11:28:35.1694025Z"
+    }
+  },
+  "licence": {
+    "path": "models/m1-yoloe-capacity/LICENSE-assets-AGPL.txt",
+    "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0"
+  },
+  "original_quality_seal": "6ff9b6b463dde7b28e7f065438aa7a6162437b4ccf16d9d226ee38fa4543dcb2",
+  "small_seal": "38562deb71a3a1a9fc4c2749b1baff08def2cb6f84d86b25eb4a71a95ccdc445",
+  "inputs_manifest_sha256": "faa145fbe98b97bf55cbbd3ebfdc46bb2ae49b352ff6774f7d2d97a1110a08b8",
+  "mapping_sha256": "7701f2609e1dd2d8836fe310772b5542ec02f74837b5b4fbb27f89f20ef7f82e",
+  "selection_sha256": "15d3afbb6b597625fbbb6604b7ca93a81f0921a36d0afdc2ebde6b6bb5061feb",
+  "references": {
+    "nano_baseline": {
+      "summary": "e916aaed48aba594e8d6080ef5c882fdc92cbaa64236b892e7999132281bfec5",
+      "jsonl": "d77d6ed857ab60085cffc07a47dcba095fa202e0dbcd81e352810f0b10ffb3c2"
+    },
+    "small": {
+      "summary": "3ffabdaa748b1947954086eceadc1398cc419aee0be25af86fcc65a416f015b3",
+      "jsonl": "c56c1726818956a9966f6da9c7ed87ea51b778c334bdd93f5015fe53d08d609f"
+    }
+  },
+  "same_protocol": "Frozen 144 images/12 profiles per candidate, score.2/.35/.5, NMS.5 aware+agnostic, caps20/100, pre-cap300, masks.35, all scoring inherited; no new ontology or predictions before review",
+  "expected_per_size": {
+    "forwards": 144,
+    "profiles": 12,
+    "records": 1728
+  },
+  "expected_total_new_forwards": 432,
+  "references_rerun": false,
+  "L_only_parity_amendment": {
+    "reviewed_before_144": true,
+    "coordinate_bound_network_pixels": 0.05,
+    "unchanged_score_and_coefficient_bound": 0.02,
+    "unchanged_prototype_bound": 0.005,
+    "NMS_counts_anchors_classes_order_identical_all12_profiles": true,
+    "mask_IoU_min": 0.99,
+    "mask_check_confidence_only": 0.35,
+    "initial_stop_log": "build/reports/validation/m1-yoloe-capacity/export-l.log",
+    "no_reexport_after_stop": true
+  }
+}

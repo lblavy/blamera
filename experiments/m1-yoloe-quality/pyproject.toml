@@ -1,0 +1,10 @@
+[project]
+name = "blamera-yoloe-quality-protocol"
+version = "0.0.0"
+requires-python = "==3.12.*"
+dependencies = ["numpy==2.5.4", "opencv-python==5.0.0.93"]
+
+[tool.uv]
+package = false
+# No install performed. Reuse pinned ../m1-yoloe/uv.lock read-only.
+# pycocotools==2.0.11 is a separately verified private --target wheel.

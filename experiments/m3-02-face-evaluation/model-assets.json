@@ -1,0 +1,76 @@
+{
+  "opencv_zoo_commit": "48b10fa505aeb51fbd127fc60a5c660040e823b7",
+  "files": [
+    {
+      "name": "yunet.onnx",
+      "source": "https://media.githubusercontent.com/media/opencv/opencv_zoo/48b10fa505aeb51fbd127fc60a5c660040e823b7/models/face_detection_yunet/face_detection_yunet_2023mar.onnx",
+      "bytes": 232589,
+      "sha256": "8f2383e4dd3cfbb4553ea8718107fc0423210dc964f9f4280604804ed2552fa4"
+    },
+    {
+      "name": "sface.onnx",
+      "source": "https://media.githubusercontent.com/media/opencv/opencv_zoo/48b10fa505aeb51fbd127fc60a5c660040e823b7/models/face_recognition_sface/face_recognition_sface_2021dec.onnx",
+      "bytes": 38696353,
+      "sha256": "0ba9fbfa01b5270c96627c4ef784da859931e02f04419c829e83484087c34e79"
+    },
+    {
+      "name": "buffalo_sc.zip",
+      "source": "https://github.com/deepinsight/insightface/releases/download/v0.7/buffalo_sc.zip",
+      "bytes": 14969382,
+      "sha256": "57d31b56b6ffa911c8a73cfc1707c73cab76efe7f13b675a05223bf42de47c72"
+    },
+    {
+      "name": "buffalo_l.zip",
+      "source": "https://github.com/deepinsight/insightface/releases/download/v0.7/buffalo_l.zip",
+      "bytes": 288621354,
+      "sha256": "80ffe37d8a5940d59a7384c201a2a38d4741f2f3c51eef46ebb28218a7b0ca2f"
+    },
+    {
+      "name": "astronaut.png",
+      "source": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/astronaut.png",
+      "bytes": 791555,
+      "sha256": "88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5"
+    },
+    {
+      "name": "YuNet.LICENSE",
+      "source": "https://raw.githubusercontent.com/opencv/opencv_zoo/48b10fa505aeb51fbd127fc60a5c660040e823b7/models/face_detection_yunet/LICENSE",
+      "bytes": 1085,
+      "sha256": "c83b8120c50ccbd4c4f96edf53141bdd566ebb8f8e9227e415326aa1b1aba958"
+    },
+    {
+      "name": "SFace.LICENSE",
+      "source": "https://raw.githubusercontent.com/opencv/opencv_zoo/48b10fa505aeb51fbd127fc60a5c660040e823b7/models/face_recognition_sface/LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "name": "w600k_mbf.onnx",
+      "source_archive": "buffalo_sc.zip",
+      "member": "w600k_mbf.onnx",
+      "bytes": 13616099,
+      "sha256": "9cc6e4a75f0e2bf0b1aed94578f144d15175f357bdc05e815e5c4a02b319eb4f"
+    },
+    {
+      "name": "w600k_r50.onnx",
+      "source_archive": "buffalo_l.zip",
+      "member": "w600k_r50.onnx",
+      "bytes": 174383860,
+      "sha256": "4c06341c33c2ca1f86781dab0e829f88ad5b64be9fba56e56bc9ebdefc619e43"
+    },
+    {
+      "name": "john-glenn.jpg",
+      "source": "https://www.nasa.gov/wp-content/uploads/2016/12/145210main_image_feature_534_ys_full.jpg",
+      "bytes": 403596,
+      "sha256": "711ba45dab4ce09656c30d5335c0d9b23f075cb2cfa5e421732f99054d79ed12",
+      "source_page": "https://www.nasa.gov/people/john-glenn/",
+      "credit": "NASA"
+    },
+    {
+      "name": "sface-constant.onnx",
+      "derived_from": "sface.onnx",
+      "transformation": "remove graph inputs also listed as initializers; preserve every weight tensor",
+      "bytes": 38688787,
+      "sha256": "ae6a6ac44d2bdc87924e75fb23d8212430dd24f037f5e035c21deff99afc8b61"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "allowed": [
+    "Apache-2.0",
+    "MIT",
+    "BSD-3-Clause",
+    "MPL-2.0",
+    "MIT-CMU",
+    "PSF-2.0",
+    "Apache-2.0 OR BSD-2-Clause",
+    "Apache-2.0 OR BSD-3-Clause",
+    "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0"
+  ],
+  "overrides": {
+    "opencv-python-headless": {
+      "version": "4.13.0.92",
+      "metadata_sha256": "be57492eea15074a2af248494c6ae7e6bfc5de0f8a971dcebd785e715e76ea2e",
+      "license": "Apache-2.0",
+      "source": "https://github.com/opencv/opencv-python/tree/4.13.0.92",
+      "evidence": "M3-02-A: canonicalize pinned METADATA Apache 2.0; wheel LICENSE.txt is MIT for wrapper, LICENSE-3RD-PARTY.txt retains Apache-2.0 OpenCV and FFmpeg LGPL-2.1 notices. Native bundle is not represented as exclusively Apache licensed; full native audit/distribution remains outside this metadata scope. Notices retained in installed wheel."
+    },
+    "altair": {
+      "version": "6.3.0",
+      "metadata_sha256": "66cdd2c9de3db773944d787c921f1eae8d9d9abca1b3686bfb6dc543176c7e3f",
+      "license": "BSD-3-Clause",
+      "source": "https://github.com/vega/altair/blob/main/LICENSE",
+      "evidence": "Installed wheel license file reviewed in M0-05; retained in .venv dist-info."
+    },
+    "itsdangerous": {
+      "version": "2.2.0",
+      "metadata_sha256": "679fa035cb12360c6359bbf648382577aa46bf4fc25a89cacd89f77ba669f230",
+      "license": "BSD-3-Clause",
+      "source": "https://github.com/pallets/itsdangerous/blob/2.2.0/LICENSE.txt",
+      "evidence": "Installed wheel license file reviewed in M0-05; retained in .venv dist-info."
+    },
+    "jinja2": {
+      "version": "3.1.6",
+      "metadata_sha256": "2d58ed1e4f4c0f703deedc06a035a21e0d2d23c57131f224985d44d8f6e3b3a7",
+      "license": "BSD-3-Clause",
+      "source": "https://github.com/pallets/jinja/blob/3.1.6/LICENSE.txt",
+      "evidence": "Installed wheel license file reviewed in M0-05; retained in .venv dist-info."
+    },
+    "protobuf": {
+      "version": "7.36.2",
+      "metadata_sha256": "7024889118746fdf2bfdbf996a0998ab17bcf2431a77ed955db8096d2c31ed8a",
+      "license": "BSD-3-Clause",
+      "source": "https://github.com/protocolbuffers/protobuf/blob/main/LICENSE",
+      "evidence": "Installed wheel license file reviewed in M0-05; retained in .venv dist-info."
+    },
+    "pydeck": {
+      "version": "0.9.3",
+      "metadata_sha256": "3ed831f19844777ecc0925e5b223cf8327f821d4fcfc629f2e7e8c27bd1cc0be",
+      "license": "Apache-2.0",
+      "source": "https://github.com/visgl/deck.gl/blob/master/bindings/pydeck/LICENSE.txt",
+      "evidence": "Installed wheel license file reviewed in M0-05; retained in .venv dist-info."
+    },
+    "python-dateutil": {
+      "version": "3.0.0",
+      "metadata_sha256": "ad7717115a49cf0d59a3baf1ccc3ad9b6613666c595deff4316fc2cf1ca59a29",
+      "license": "Apache-2.0 OR BSD-3-Clause",
+      "source": "https://github.com/dateutil/dateutil/blob/master/LICENSE",
+      "evidence": "Installed wheel license file reviewed in M0-05; retained in .venv dist-info."
+    }
+  }
+}

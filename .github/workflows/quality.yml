@@ -1,0 +1,64 @@
+name: Mobile and PC quality
+
+on:
+  push:
+    branches: [main, 'codex/**']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  quality:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    env:
+      GRADLE_USER_HOME: ${{ github.workspace }}/.gradle-user-home
+      QUALITY_BASE_REF: ${{ github.event.pull_request.base.sha || github.event.before || 'HEAD' }}
+      UV_CACHE_DIR: ${{ github.workspace }}/.tools/uv-cache
+      UV_PYTHON_INSTALL_DIR: ${{ github.workspace }}/.tools/python
+      UV_PYTHON_INSTALL_BIN: '0'
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-java@c5195efecf7bdfc987ee8bae7a71cb8b11521c00 # v4.7.1
+        with:
+          distribution: temurin
+          java-version: '21'
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: '24.12.0'
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.12.14'
+      - name: Ensure the Android 36 SDK is available
+        run: |
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" "platforms;android-36" "build-tools;36.0.0"
+      - name: Prepare the locked autonomous PC environment
+        run: |
+          mkdir -p .tools/uv
+          curl -fL https://github.com/astral-sh/uv/releases/download/0.13.5/uv-x86_64-unknown-linux-gnu.tar.gz -o .tools/uv/uv.tar.gz
+          echo 'f68d291c75783122dad58ab77def0e13f3233f358731db5d6d7e8715603b928f  .tools/uv/uv.tar.gz' | sha256sum --check
+          tar -xzf .tools/uv/uv.tar.gz --strip-components=1 -C .tools/uv
+          .tools/uv/uv python install 3.12.14 --no-bin
+          .tools/uv/uv sync --project pc --locked --python 3.12.14 --managed-python
+      - name: Run the same local quality command
+        run: |
+          # CI remains deferred: provision the controlled local model/public fixtures first.
+          # Never silently skip native tests or fetch/re-export an unverified substitute.
+          test -f models/m1-01/yolo11n-seg/yolo11n-seg.onnx
+          test -f build/reports/validation/m1-01/astronaut.png
+          test -f build/reports/validation/m1-01/astronaut-pytorch-mask.bin
+          if [[ "$QUALITY_BASE_REF" =~ ^0+$ ]]; then export QUALITY_BASE_REF=EMPTY; fi
+          pc/.venv/bin/python scripts/quality.py
+      - name: Preserve a visible failure summary without artifact storage
+        if: always()
+        run: |
+          if [ -f build/reports/quality/summary.json ]; then
+            cat build/reports/quality/summary.json
+          else
+            echo 'Quality did not finish: no complete report was produced.' >> "$GITHUB_STEP_SUMMARY"
+          fi

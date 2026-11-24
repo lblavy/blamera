@@ -1,0 +1,337 @@
+{
+  "scope": "Input-only variant; 24 compact CPU forwards on six actual JVM tensors; 32 byte-identical v1 references copied. No model export or quality benchmark.",
+  "sources": {
+    "manifest": {
+      "file": "build/reports/validation/m1-yoloe-capacity-phone/kotlin-inputs/manifest.json",
+      "sha256": "61252eaff94278a91d08149d25ccccf99509b171412848532d04879925f99702",
+      "size": 8139
+    },
+    "catalog": {
+      "file": "models/m1-yoloe-phone-assets/catalog.properties",
+      "sha256": "af8e42a5eeea0b479918bb1882022dc530e4c55b1f0d5f89a4c0fd451cbd734a",
+      "size": 10005
+    },
+    "inputs": {
+      "file": "models/m1-yoloe-phone-assets/inputs.json",
+      "sha256": "56de5972c0555b4fbe4cad8be8a5f78086b09a13fa35cb88ea46e7a818f77709",
+      "size": 9180
+    },
+    "preprocessor": {
+      "file": "app/src/main/java/dev/blamera/vision/PreparedImage.kt",
+      "sha256": "f4ac2016abf41e2ee0d2335383ff13b78f2f10702841056ad506a7d47158ad19",
+      "size": 2147
+    },
+    "geometry": {
+      "file": "app/src/main/java/dev/blamera/vision/Geometry.kt",
+      "sha256": "78929cbc91ca174e9e7ccdd367bb5332408c905e4f752735f47768a5f4aafa43",
+      "size": 2195
+    },
+    "versions": {
+      "file": "gradle/libs.versions.toml",
+      "sha256": "41094e1c7f4802351f9a341e486f871099ebb18db343e2473004eea24b77cdaa",
+      "size": 2585
+    }
+  },
+  "changedInputs": [
+    "nasa",
+    "lvis_22892",
+    "ade_00000498",
+    "ade_00001828",
+    "ade_00000583",
+    "ade_00001565"
+  ],
+  "jvmRuntime": {
+    "jdk": "Temurin 21.0.12.1+1",
+    "kotlin": "2.3.21",
+    "robolectric": "4.16",
+    "graphics": "NATIVE",
+    "androidSdk": 36,
+    "evidence": "Existing BenchmarkPreprocessingTest dump produced by main coder, pixels matched 14/14; no change to production preprocessor"
+  },
+  "versions": {
+    "numpy": "2.5.4",
+    "onnxruntime": "1.31.0"
+  },
+  "references": [
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/ade_00000498.json",
+      "sha256": "58f7f5b6320212bdbfce3649b2b08a3b859c1337b4a0881a2e2400148e616ed1",
+      "size": 573
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/ade_00000583.json",
+      "sha256": "55096409dece614556b1ffe57c8b0ee21375168782aa5c68dd2da5b8b5d86ddf",
+      "size": 5368
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/ade_00001565.json",
+      "sha256": "97faf73f39ac201bec8242b750516b073ea4f05983299c238a3babf7ff5295c4",
+      "size": 5366
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/ade_00001828.json",
+      "sha256": "a2951f775e84863380a6eaf17b895f9f23d47cc1b1b0916f45fd5d5930fd7cd7",
+      "size": 10153
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/lvis_22892.json",
+      "sha256": "facc55f9ae32bd539d49e92c59548c5d280d7b85ae25808116107fd27d78c0e3",
+      "size": 10136
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/lvis_319617.json",
+      "sha256": "93f52a7b702c54102472fa9e0e59ac53711339d0c7c33ad3c72eed051dc84941",
+      "size": 19658
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/lvis_371699.json",
+      "sha256": "55eb2364e46985eda1602868f8736b1390a19d0fbb035ae67d083fafd6ec5f5c",
+      "size": 24438
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/lvis_372349.json",
+      "sha256": "c7101d40810458f9421da5e0551c04667584ec28a2fb220bb68ed2412575ed15",
+      "size": 10132
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/lvis_394328.json",
+      "sha256": "5832aa520c067cba5ecbd401ccaef100944cc145589044e5db142b63c6979a05",
+      "size": 5351
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/lvis_492878.json",
+      "sha256": "cf18011fc206bc4957be4d7f5255e9ecb581062bfe627d61bb1d3d69f2e75fc4",
+      "size": 5355
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/lvis_570736.json",
+      "sha256": "2d8c82b44cec1db78edf90d45728e1aaaa6b83ee6abaada64cc576c0e98acfe6",
+      "size": 10128
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/lvis_62692.json",
+      "sha256": "ece8966851e561098eb708e1fa9e15acea6a251726187ebfbf2b7f3018c0d8bb",
+      "size": 5322
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/nasa.json",
+      "sha256": "426af87ec483ce649c659bc769b7ce5ce1e4fd5ad47097a32ec4432b9d9ccd19",
+      "size": 5343
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/baseline/synthetic.json",
+      "sha256": "9c2e9c983718a0243e17552903b88233279fbd7ce75d828bb8639f78d93de0d7",
+      "size": 555
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/ade_00000498.json",
+      "sha256": "427ba43108ab0ef47fdaa7460d9430af50317317af8a8ced27bacaf686b0f849",
+      "size": 29274
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/ade_00000583.json",
+      "sha256": "0ca755a60b4c600a30bb21884f31828a60f3da933bf6adc43eaed9b18887609c",
+      "size": 38777
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/ade_00001565.json",
+      "sha256": "275f5264ab9741f1935e946c38c5e8384ef8a1c31a18ceb1ab9243f930d3afc8",
+      "size": 14915
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/ade_00001828.json",
+      "sha256": "255dcea88645704916d18c7ca58299cfd262a40f37cae5182c4ff0b6b3098ad5",
+      "size": 38811
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/lvis_22892.json",
+      "sha256": "6b24275767647db93f7c4202edea7fe979a51243b42e429fe76a716f9b77fca2",
+      "size": 38827
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/lvis_319617.json",
+      "sha256": "0734cc6f9b74347460a26472ed7daa570eb616972fef6a6c401853ae94c18c7c",
+      "size": 29168
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/lvis_371699.json",
+      "sha256": "fe5ffbcfe3b4716ac69af5ca7f4f2fbd8a319b7d76337cf6f9b4d1b43bc891ca",
+      "size": 91324
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/lvis_372349.json",
+      "sha256": "9dba484ce04a0f1754b153eec00082a3a305f970a740e3e8997f2641e12ac1eb",
+      "size": 48319
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/lvis_394328.json",
+      "sha256": "9412a9a1c530bd52875649d1f42645a89a87f6332f34a8a2d1e8a1c56f851187",
+      "size": 48310
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/lvis_492878.json",
+      "sha256": "6a26c90db9d0341ee1568392a5db9928fb4d5e7f5dc4209611fd2a831e21a4f5",
+      "size": 96153
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/lvis_570736.json",
+      "sha256": "ea0959c1300f8eb7eadcb5e2854fdeff9d6ba37e99212638ffbc52fb3322eefc",
+      "size": 91306
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/lvis_62692.json",
+      "sha256": "af298c8113afcc9c499969a04e9f57b80165aee6aa053e9947b5e9aef6a26236",
+      "size": 24446
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/nasa.json",
+      "sha256": "29e7b4f0e7f9257e5f3327436783afe0e77e2da49bf00e390e54f473d88df4ea",
+      "size": 81605
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/large/synthetic.json",
+      "sha256": "e97d71b57afd1ffb30ba3a740f1028d06233eda3aa15095bb39ca47b6d39a76d",
+      "size": 5356
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/ade_00000498.json",
+      "sha256": "a9e88b74754f0d8a7fd13a52fd9a809005531aad4d43cd5dc72fb9419e9532de",
+      "size": 24486
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/ade_00000583.json",
+      "sha256": "b49e460e8a72c141e475501f434ddb8752f89dde0774509411a9e40c57ba4e98",
+      "size": 43540
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/ade_00001565.json",
+      "sha256": "75c74988a877783d65dd0e6729334947b3eebce98922f04fe1fb8ad187360af7",
+      "size": 29266
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/ade_00001828.json",
+      "sha256": "f9ccc033c6df3752544270eabc127dc48c0f1d8e28c2592dfc7d0ff5ade09ae9",
+      "size": 43585
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/lvis_22892.json",
+      "sha256": "8ff2e9583a7feb56a7b6b11147fda9ce7c58efc61b8c8708532bbd519c06a60d",
+      "size": 24476
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/lvis_319617.json",
+      "sha256": "24176a3ee03fe0382c308f26b0b3e128348bb2b495773db5605e0972465c8a73",
+      "size": 29212
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/lvis_371699.json",
+      "sha256": "1ae0eecbb15986c493cc1d0c5f22dd8b0b013f1b8a6979da250092e507bcf929",
+      "size": 96095
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/lvis_372349.json",
+      "sha256": "9b4842fc8f09fbce6fd6b2933dc1e944512fc9e20f9c6079a2d61dfa3922c476",
+      "size": 34005
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/lvis_394328.json",
+      "sha256": "556abb049d699a7a2e4d87c69cb404521e99779ab6dde99384c2a74b7133c550",
+      "size": 48299
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/lvis_492878.json",
+      "sha256": "9379dc45468ca4d67995a8614ead641dc0ee7240de8d3fa8998aeccadc21d731",
+      "size": 96093
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/lvis_570736.json",
+      "sha256": "3fcd36fbe591a54c938f8e3364e7d0616c959adbb33e55301177ec523849aa1a",
+      "size": 96091
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/lvis_62692.json",
+      "sha256": "4b4003cb87b8ce236867624af593b9806a51eb86d19d709b46f0c8725580ec80",
+      "size": 19659
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/nasa.json",
+      "sha256": "b426153e8ed565d943b7ad378fbac636e460be0769e7b67d8b68d679858fb39a",
+      "size": 67314
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/small/synthetic.json",
+      "sha256": "c3ede31a9911a6c4a6fa1bae7a19831190021e2b79f1c7dbc06f548b4ed15252",
+      "size": 10123
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/ade_00000498.json",
+      "sha256": "3eaf925354f567cda44aa6c3479802d887fe2c8564230d5fe670184cfb4480be",
+      "size": 29279
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/ade_00000583.json",
+      "sha256": "33ab01246ad1e60c2e8360d0ea5c36496238cb41bfd7d81c36a48914b32dd26b",
+      "size": 34025
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/ade_00001565.json",
+      "sha256": "928c831eeb2dcd19ef500be4c4b872db41dec3ea7c1b6521eb1a200a3b69c828",
+      "size": 24471
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/ade_00001828.json",
+      "sha256": "710d238b2f9be320a65549305106d9ee429d86bc55c143b078f185b182cd9082",
+      "size": 29242
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/lvis_22892.json",
+      "sha256": "28b45572b76a53e8612730c6034fca06b3e9fe3eb4a69e6578aa4c43ffaa2411",
+      "size": 29227
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/lvis_319617.json",
+      "sha256": "b8ac9013b7873f84530c5f40f0507d8a9fa6ae0e76e3e63fca8cf52487107ef1",
+      "size": 33969
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/lvis_371699.json",
+      "sha256": "9f6f8db49805030d8aa9b60168fde0b261bb5e37eb74f329ca8b1776aaaaf8bb",
+      "size": 96036
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/lvis_372349.json",
+      "sha256": "76de494fd403baebad2c1cd9e6eaea2b3cb7b1fa59e0142c0e1333139bfade5c",
+      "size": 43521
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/lvis_394328.json",
+      "sha256": "27a3cdf9dc11bdb95afd0dd330cef7047aa4cd03c4545a122bbec41302b0c854",
+      "size": 43520
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/lvis_492878.json",
+      "sha256": "d46138cb5b4274f22d75efbe0c03eedc82745355d26ac66fa6bd5741a86670ef",
+      "size": 96096
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/lvis_570736.json",
+      "sha256": "41f31274cf8ee8a998fba4bd98a0648aa43bb45901265ceb8d66b64dcad20cb0",
+      "size": 96100
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/lvis_62692.json",
+      "sha256": "fa9da2b126c644abeffad5a869e35c38f5aff62a0eb32495cc6b1f507c9fa967",
+      "size": 19660
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/nasa.json",
+      "sha256": "9a4c8977b99d996c2d63cc8d5a36da3c1e7e0c288e4017a76e05886b927eac53",
+      "size": 81669
+    },
+    {
+      "file": "models/m1-yoloe-phone-assets/references/xlarge/synthetic.json",
+      "sha256": "478211fd697399955eb9a75fc61b1937979fc3d36cea3545a5af1323d40270b2",
+      "size": 5351
+    }
+  ]
+}

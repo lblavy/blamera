@@ -12,12 +12,18 @@
 
 # Package Files #
 *.jar
+!gradle/wrapper/gradle-wrapper.jar
 *.war
 *.nar
 *.ear
 *.zip
 *.tar.gz
 *.rar
+*.apk
+
+# Local APK delivery metadata (public validation reports live in docs/)
+/blamera-*-debug.json
+/blamera-*.sha256
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
@@ -25,3 +31,42 @@ replay_pid*
 
 # Kotlin Gradle plugin data, see https://kotlinlang.org/docs/whatsnew20.html#new-directory-for-kotlin-data-in-gradle-projects
 .kotlin/
+
+# Android and Gradle local state
+.gradle/
+.gradle-user-home/
+.android/
+**/build/
+local.properties
+.idea/
+*.iml
+*.jks
+*.keystore
+keystore.properties
+.env
+.env.*
+!.env.example
+
+# Personal datasets and generated experiments
+/.codex-attachments/
+/resources/
+/data/
+/datasets/
+/models/
+/exports/
+/.venv/
+__pycache__/
+*.pyc
+node_modules/
+.npm-cache/
+.tools/
+/dist/
+/pc/.venv/
+.ruff_cache/
+.mypy_cache/
+.complexipy_cache/
+/pc/data/
+/pc/datasets/
+/pc/models/
+/pc/exports/
+/pc/.streamlit/secrets.toml

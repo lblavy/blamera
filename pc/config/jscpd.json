@@ -1,0 +1,9 @@
+{
+  "format": ["python"],
+  "minLines": 5,
+  "minTokens": 50,
+  "reporters": ["json", "html", "console"],
+  "output": "build/reports/quality/pc/duplication",
+  "absolute": true,
+  "gitignore": false
+}

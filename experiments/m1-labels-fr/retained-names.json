@@ -1,0 +1,3350 @@
+[
+  {
+    "id": 8,
+    "english": "accident",
+    "french": "accident",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 13,
+    "english": "action",
+    "french": "action",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 17,
+    "english": "adaptation",
+    "french": "adaptation",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 27,
+    "english": "afro",
+    "french": "afro",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 28,
+    "english": "agriculture",
+    "french": "agriculture",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 50,
+    "english": "album",
+    "french": "album",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 57,
+    "english": "aloe vera",
+    "french": "aloe vera",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 60,
+    "english": "alphabet",
+    "french": "alphabet",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 64,
+    "english": "ambulance",
+    "french": "ambulance",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 66,
+    "english": "American shorthair",
+    "french": "American Shorthair",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 76,
+    "english": "angle",
+    "french": "angle",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 77,
+    "english": "animal",
+    "french": "animal",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 80,
+    "english": "animation",
+    "french": "animation",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 83,
+    "english": "anime",
+    "french": "anime",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 112,
+    "english": "aquarium",
+    "french": "aquarium",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 115,
+    "english": "arcade",
+    "french": "arcade",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 123,
+    "english": "architecture",
+    "french": "architecture",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 124,
+    "english": "archive",
+    "french": "archive",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 133,
+    "english": "armoire",
+    "french": "armoire",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 141,
+    "english": "art",
+    "french": "art",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 149,
+    "english": "article",
+    "french": "article",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 161,
+    "english": "association",
+    "french": "association",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 166,
+    "english": "atlas",
+    "french": "atlas",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 169,
+    "english": "atrium",
+    "french": "atrium",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 173,
+    "english": "attraction",
+    "french": "Attraction",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 177,
+    "english": "audi",
+    "french": "audi",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 178,
+    "english": "audio",
+    "french": "audio",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 179,
+    "english": "auditorium",
+    "french": "auditorium",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 196,
+    "english": "avatar",
+    "french": "Avatar",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 197,
+    "english": "avenue",
+    "french": "avenue",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 220,
+    "english": "bacon",
+    "french": "bacon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 221,
+    "english": "badge",
+    "french": "badge",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 223,
+    "english": "badlands",
+    "french": "badlands",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 224,
+    "english": "badminton",
+    "french": "badminton",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 227,
+    "english": "bagel",
+    "french": "bagel",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 229,
+    "english": "baguette",
+    "french": "baguette",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 236,
+    "english": "balance",
+    "french": "balance",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 242,
+    "english": "ballet",
+    "french": "ballet",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 257,
+    "english": "bandage",
+    "french": "bandage",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 259,
+    "english": "bandeau",
+    "french": "bandeau",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 261,
+    "english": "bracelet",
+    "french": "bracelet",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 262,
+    "english": "balustrade",
+    "french": "balustrade",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 263,
+    "english": "banjo",
+    "french": "banjo",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 269,
+    "english": "banquet",
+    "french": "banquet",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 272,
+    "english": "baozi",
+    "french": "baozi",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 274,
+    "english": "bar",
+    "french": "bar",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 277,
+    "english": "barbecue",
+    "french": "barbecue",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 282,
+    "english": "barbie",
+    "french": "barbie",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 284,
+    "english": "barista",
+    "french": "barista",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 291,
+    "english": "barricade",
+    "french": "barricade",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 295,
+    "english": "baseball",
+    "french": "baseball",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 338,
+    "english": "batman",
+    "french": "batman",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 348,
+    "english": "bayberry",
+    "french": "bayberry",
+    "reason": "Regional botanical common name covering Myrica/Morella and Pimenta; original retained to avoid asserting a species."
+  },
+  {
+    "id": 359,
+    "english": "beagle",
+    "french": "beagle",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 396,
+    "english": "beige",
+    "french": "beige",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 405,
+    "english": "bento",
+    "french": "bento",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 411,
+    "english": "bibimbap",
+    "french": "bibimbap",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 412,
+    "english": "bible",
+    "french": "Bible",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 413,
+    "english": "bichon",
+    "french": "bichon",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 418,
+    "english": "bidet",
+    "french": "bidet",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 419,
+    "english": "big ben",
+    "french": "Big Ben",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 424,
+    "english": "bikini",
+    "french": "bikini",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 427,
+    "english": "billard",
+    "french": "billard",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 450,
+    "english": "biscuit",
+    "french": "biscuit",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 452,
+    "english": "bison",
+    "french": "bison",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 472,
+    "english": "blog",
+    "french": "blog",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 499,
+    "english": "bodyboard",
+    "french": "bodyboard",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 507,
+    "english": "bonasa umbellu",
+    "french": "bonasa umbellu",
+    "reason": "Scientific name truncated in the canonical English source; preserved without inventing a corrected taxon."
+  },
+  {
+    "id": 523,
+    "english": "Border collie",
+    "french": "Border collie",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 531,
+    "english": "bouquet",
+    "french": "bouquet",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 532,
+    "english": "boutique",
+    "french": "boutique",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 538,
+    "english": "bowling",
+    "french": "bowling",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 585,
+    "english": "bronze",
+    "french": "bronze",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 595,
+    "english": "brownie",
+    "french": "brownie",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 596,
+    "english": "brunch",
+    "french": "brunch",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 599,
+    "english": "coyote",
+    "french": "coyote",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 603,
+    "english": "bubble tea",
+    "french": "Bubble Tea",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 609,
+    "english": "buffet",
+    "french": "buffet",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 619,
+    "english": "bulldog",
+    "french": "bulldog",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 633,
+    "english": "bunker",
+    "french": "bunker",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 636,
+    "english": "bureau",
+    "french": "bureau",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 639,
+    "english": "burrito",
+    "french": "burrito",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 640,
+    "english": "bus",
+    "french": "Bus",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 657,
+    "english": "butte",
+    "french": "butte",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 663,
+    "english": "buttonwood",
+    "french": "buttonwood",
+    "reason": "Polysemous regional botanical common name (Platanus / Conocarpus / others); original retained to avoid asserting a species."
+  },
+  {
+    "id": 665,
+    "english": "taxi",
+    "french": "taxi",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 674,
+    "english": "cactus",
+    "french": "cactus",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 677,
+    "english": "cage",
+    "french": "cage",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 692,
+    "english": "camouflage",
+    "french": "camouflage",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 693,
+    "english": "camp",
+    "french": "camp",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 696,
+    "english": "camping",
+    "french": "camping",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 698,
+    "english": "campus",
+    "french": "campus",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 701,
+    "english": "canal",
+    "french": "canal",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 703,
+    "english": "cancer",
+    "french": "cancer",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 718,
+    "english": "canyon",
+    "french": "canyon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 720,
+    "english": "cape",
+    "french": "cape",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 722,
+    "english": "cappuccino",
+    "french": "cappuccino",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 725,
+    "english": "capture",
+    "french": "capture",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 737,
+    "english": "caramel",
+    "french": "caramel",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 742,
+    "english": "cardigan",
+    "french": "cardigan",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 743,
+    "english": "cardinal",
+    "french": "cardinal",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 750,
+    "english": "carnivore",
+    "french": "carnivore",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 764,
+    "english": "carton",
+    "french": "carton",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 773,
+    "english": "casino",
+    "french": "casino",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 775,
+    "english": "cassette",
+    "french": "cassette",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 786,
+    "english": "catamaran",
+    "french": "catamaran",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 798,
+    "english": "caviar",
+    "french": "caviar",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 799,
+    "english": "CD",
+    "french": "CD",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 824,
+    "english": "chalet",
+    "french": "chalet",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 829,
+    "english": "champagne",
+    "french": "champagne",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 831,
+    "english": "champion",
+    "french": "champion",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 840,
+    "english": "charge",
+    "french": "charge",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 842,
+    "english": "chariot",
+    "french": "chariot",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 856,
+    "english": "cheeseburger",
+    "french": "cheeseburger",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 857,
+    "english": "cheesecake",
+    "french": "cheesecake",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 859,
+    "english": "chef",
+    "french": "chef",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 864,
+    "english": "cheongsam",
+    "french": "cheongsam",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 878,
+    "english": "chihuahua",
+    "french": "chihuahua",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 924,
+    "english": "cigarette",
+    "french": "cigarette",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 931,
+    "english": "circuit",
+    "french": "circuit",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 963,
+    "english": "client",
+    "french": "client",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 969,
+    "english": "clip",
+    "french": "clip",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 973,
+    "english": "clivia",
+    "french": "clivia",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 988,
+    "english": "joker",
+    "french": "joker",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 990,
+    "english": "club",
+    "french": "club",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1000,
+    "english": "cocker",
+    "french": "cocker",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 1001,
+    "english": "cockpit",
+    "french": "cockpit",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1003,
+    "english": "cocktail",
+    "french": "cocktail",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1017,
+    "english": "cognac",
+    "french": "cognac",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1024,
+    "english": "collaboration",
+    "french": "collaboration",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1025,
+    "english": "collage",
+    "french": "collage",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1026,
+    "english": "collection",
+    "french": "collection",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1056,
+    "english": "composition",
+    "french": "composition",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1057,
+    "english": "compost",
+    "french": "compost",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1067,
+    "english": "concept car",
+    "french": "concept car",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1068,
+    "english": "concert",
+    "french": "concert",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1072,
+    "english": "condiment",
+    "french": "condiment",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1083,
+    "english": "confluence",
+    "french": "confluence",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1087,
+    "english": "constellation",
+    "french": "constellation",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1093,
+    "english": "continent",
+    "french": "continent",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1099,
+    "english": "convention",
+    "french": "Convention",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1100,
+    "english": "conversation",
+    "french": "conversation",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1108,
+    "english": "cool",
+    "french": "cool",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1117,
+    "english": "corgi",
+    "french": "corgi",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 1128,
+    "english": "corral",
+    "french": "corral",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1129,
+    "english": "corridor",
+    "french": "corridor",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1130,
+    "english": "corset",
+    "french": "corset",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1134,
+    "english": "cosplay",
+    "french": "cosplay",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1135,
+    "english": "costume",
+    "french": "costume",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1151,
+    "english": "couple",
+    "french": "couple",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1153,
+    "english": "courgette",
+    "french": "courgette",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1158,
+    "english": "cousin",
+    "french": "cousin",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1162,
+    "english": "cowboy",
+    "french": "cowboy",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1167,
+    "english": "crack",
+    "french": "crack",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1185,
+    "english": "croissant",
+    "french": "croissant",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1192,
+    "english": "crochet",
+    "french": "crochet",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1194,
+    "english": "crocodile",
+    "french": "crocodile",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1209,
+    "english": "crucifix",
+    "french": "crucifix",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1218,
+    "english": "cube",
+    "french": "cube",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1223,
+    "english": "cuisine",
+    "french": "cuisine",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1226,
+    "english": "cupcake",
+    "french": "cupcake",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1233,
+    "english": "curry",
+    "french": "curry",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1240,
+    "english": "cycle",
+    "french": "cycle",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1242,
+    "english": "cyclone",
+    "french": "cyclone",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1250,
+    "english": "dahlia",
+    "french": "dahlia",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1251,
+    "english": "daikon",
+    "french": "daikon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1295,
+    "english": "derby",
+    "french": "derby",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1299,
+    "english": "design",
+    "french": "design",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1300,
+    "english": "designer",
+    "french": "designer",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1301,
+    "english": "table",
+    "french": "table",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1305,
+    "english": "dessert",
+    "french": "dessert",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1306,
+    "english": "destruction",
+    "french": "destruction",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1314,
+    "english": "journal",
+    "french": "journal",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1329,
+    "english": "direct",
+    "french": "direct",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1337,
+    "english": "disciple",
+    "french": "disciple",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1338,
+    "english": "disco",
+    "french": "disco",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1348,
+    "english": "Disneyland",
+    "french": "Disneyland",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 1357,
+    "english": "dj",
+    "french": "dj",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1358,
+    "english": "doberman",
+    "french": "doberman",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 1359,
+    "english": "dock",
+    "french": "dock",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1361,
+    "english": "document",
+    "french": "document",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1370,
+    "english": "dollar",
+    "french": "dollar",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1375,
+    "english": "domicile",
+    "french": "domicile",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1376,
+    "english": "domino",
+    "french": "domino",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1390,
+    "english": "dragon",
+    "french": "dragon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1392,
+    "english": "drain",
+    "french": "drain",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1407,
+    "english": "dribble",
+    "french": "dribble",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1416,
+    "english": "drone",
+    "french": "drone",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1438,
+    "english": "dune",
+    "french": "dune",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1439,
+    "english": "dunk",
+    "french": "dunk",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1440,
+    "english": "durian",
+    "french": "durian",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1446,
+    "english": "DVD",
+    "french": "DVD",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1460,
+    "english": "restaurant",
+    "french": "restaurant",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1500,
+    "english": "Empire State Building",
+    "french": "Empire State Building",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 1512,
+    "english": "ensemble",
+    "french": "ensemble",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1523,
+    "english": "erhu",
+    "french": "erhu",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1525,
+    "english": "escalator",
+    "french": "escalator",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1526,
+    "english": "escargot",
+    "french": "escargot",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1539,
+    "english": "excavation",
+    "french": "excavation",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1545,
+    "english": "explosion",
+    "french": "Explosion",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1595,
+    "english": "fax",
+    "french": "fax",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1598,
+    "english": "fedora",
+    "french": "fedora",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1610,
+    "english": "ferry",
+    "french": "ferry",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1612,
+    "english": "festival",
+    "french": "festival",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1614,
+    "english": "fiction",
+    "french": "fiction",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1621,
+    "english": "figurine",
+    "french": "figurine",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1663,
+    "english": "fitness",
+    "french": "fitness",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1667,
+    "english": "fjord",
+    "french": "fjord",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1676,
+    "english": "flash",
+    "french": "flash",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1686,
+    "english": "flip",
+    "french": "flip",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1726,
+    "english": "fondant",
+    "french": "fondant",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1738,
+    "english": "football",
+    "french": "football",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1761,
+    "english": "forge",
+    "french": "forge",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1766,
+    "english": "formation",
+    "french": "formation",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1768,
+    "english": "fort",
+    "french": "fort",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1769,
+    "english": "fortification",
+    "french": "fortification",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1790,
+    "english": "frisbee",
+    "french": "Frisbee",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1806,
+    "english": "fudge",
+    "french": "fudge",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1816,
+    "english": "futon",
+    "french": "futon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1817,
+    "english": "gadget",
+    "french": "gadget",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1825,
+    "english": "gang",
+    "french": "gang",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1826,
+    "english": "garage",
+    "french": "garage",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1836,
+    "english": "garfield",
+    "french": "garfield",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 1850,
+    "english": "gecko",
+    "french": "gecko",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1851,
+    "english": "geisha",
+    "french": "geisha",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1852,
+    "english": "gel",
+    "french": "gel",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1865,
+    "english": "gin",
+    "french": "gin",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1873,
+    "english": "glacier",
+    "french": "glacier",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1902,
+    "english": "gobi",
+    "french": "gobi",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 1907,
+    "english": "golden retriever",
+    "french": "golden retriever",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 1909,
+    "english": "golf",
+    "french": "golf",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1925,
+    "english": "grampus",
+    "french": "grampus",
+    "reason": "Zoological genus/common name with multiple cetacean senses; retained rather than choosing one species without source context."
+  },
+  {
+    "id": 1926,
+    "english": "grand prix",
+    "french": "Grand Prix",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1931,
+    "english": "granola",
+    "french": "granola",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1956,
+    "english": "grill",
+    "french": "grill",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1969,
+    "english": "guacamole",
+    "french": "guacamole",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1974,
+    "english": "guide",
+    "french": "guide",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1981,
+    "english": "gundam",
+    "french": "Gundam",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 1982,
+    "english": "gurdwara",
+    "french": "gurdwara",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1983,
+    "english": "guzheng",
+    "french": "guzheng",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1986,
+    "english": "habitat",
+    "french": "habitat",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 1999,
+    "english": "hall",
+    "french": "hall",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2000,
+    "english": "halloween",
+    "french": "halloween",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 2005,
+    "english": "hamburger",
+    "french": "hamburger",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2010,
+    "english": "hamster",
+    "french": "hamster",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2015,
+    "english": "handball",
+    "french": "handball",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2024,
+    "english": "hanfu",
+    "french": "hanfu",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2026,
+    "english": "hangar",
+    "french": "hangar",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2078,
+    "english": "hibiscus",
+    "french": "hibiscus",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2101,
+    "english": "hockey",
+    "french": "hockey",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2127,
+    "english": "horizon",
+    "french": "horizon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2158,
+    "english": "hoverboard",
+    "french": "hoverboard",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2171,
+    "english": "husky",
+    "french": "husky",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 2196,
+    "english": "iceberg",
+    "french": "iceberg",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2202,
+    "english": "igloo",
+    "french": "igloo",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2206,
+    "english": "illustration",
+    "french": "illustration",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2207,
+    "english": "image",
+    "french": "image",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2208,
+    "english": "impala",
+    "french": "impala",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2220,
+    "english": "infrastructure",
+    "french": "infrastructure",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2223,
+    "english": "injection",
+    "french": "injection",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2228,
+    "english": "inscription",
+    "french": "inscription",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2231,
+    "english": "instrument",
+    "french": "instrument",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2233,
+    "english": "interaction",
+    "french": "interaction",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2236,
+    "english": "intersection",
+    "french": "intersection",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2239,
+    "english": "invitation",
+    "french": "invitation",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2240,
+    "english": "ipad",
+    "french": "ipad",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 2241,
+    "english": "iphone",
+    "french": "iphone",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 2242,
+    "english": "ipod",
+    "french": "ipod",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 2243,
+    "english": "iris",
+    "french": "iris",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2252,
+    "english": "izakaya",
+    "french": "izakaya",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2254,
+    "english": "jackcrab",
+    "french": "jackcrab",
+    "reason": "Opaque/nonstandard canonical name; preserved pending source-vocabulary clarification rather than inventing a species."
+  },
+  {
+    "id": 2256,
+    "english": "jacuzzi",
+    "french": "jacuzzi",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2257,
+    "english": "jade",
+    "french": "jade",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2258,
+    "english": "jaguar",
+    "french": "jaguar",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2265,
+    "english": "jazz",
+    "french": "jazz",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2268,
+    "english": "jeans",
+    "french": "jeans",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2269,
+    "english": "jeep",
+    "french": "jeep",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2273,
+    "english": "jet",
+    "french": "jet",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2280,
+    "english": "jockey",
+    "french": "jockey",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2291,
+    "english": "jujube",
+    "french": "jujube",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2294,
+    "english": "jungle",
+    "french": "jungle",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2301,
+    "english": "karting",
+    "french": "karting",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2302,
+    "english": "kasbah",
+    "french": "kasbah",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2303,
+    "english": "kayak",
+    "french": "kayak",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2304,
+    "english": "kebab",
+    "french": "kebab",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2309,
+    "english": "kilt",
+    "french": "kilt",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2310,
+    "english": "kimono",
+    "french": "kimono",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2316,
+    "english": "kit",
+    "french": "kit",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2329,
+    "english": "kiwi",
+    "french": "kiwi",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2339,
+    "english": "koala",
+    "french": "koala",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2345,
+    "english": "labrador",
+    "french": "labrador",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 2376,
+    "english": "lasagne",
+    "french": "lasagne",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2377,
+    "english": "laser",
+    "french": "laser",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2379,
+    "english": "lasso",
+    "french": "lasso",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2381,
+    "english": "latex",
+    "french": "latex",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2382,
+    "english": "latte",
+    "french": "latte",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2415,
+    "english": "legging",
+    "french": "legging",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2417,
+    "english": "lego",
+    "french": "lego",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 2440,
+    "english": "lichen",
+    "french": "lichen",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2466,
+    "english": "lion",
+    "french": "lion",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2472,
+    "english": "litchi",
+    "french": "litchi",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2486,
+    "english": "loft",
+    "french": "loft",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2489,
+    "english": "logo",
+    "french": "logo",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2490,
+    "english": "loki",
+    "french": "loki",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 2492,
+    "english": "longboard",
+    "french": "longboard",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2497,
+    "english": "lotus",
+    "french": "lotus",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2508,
+    "english": "mac",
+    "french": "mac",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 2509,
+    "english": "macadamia",
+    "french": "macadamia",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2510,
+    "english": "macaque",
+    "french": "macaque",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2514,
+    "english": "machine",
+    "french": "machine",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2516,
+    "english": "magazine",
+    "french": "magazine",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2521,
+    "english": "magnolia",
+    "french": "magnolia",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2523,
+    "english": "mahjong",
+    "french": "mahjong",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2539,
+    "english": "manager",
+    "french": "manager",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2541,
+    "english": "mandala",
+    "french": "mandala",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2543,
+    "english": "mandarine",
+    "french": "mandarine",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2545,
+    "english": "manga",
+    "french": "manga",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2549,
+    "english": "mangrove",
+    "french": "mangrove",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2550,
+    "english": "manhattan",
+    "french": "manhattan",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 2554,
+    "english": "mannequin",
+    "french": "mannequin",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2566,
+    "english": "maraca",
+    "french": "maraca",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2567,
+    "english": "marathon",
+    "french": "marathon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2582,
+    "english": "martial",
+    "french": "martial",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2585,
+    "english": "martini",
+    "french": "martini",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2587,
+    "english": "mascara",
+    "french": "mascara",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2592,
+    "english": "massage",
+    "french": "massage",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2595,
+    "english": "matador",
+    "french": "matador",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2620,
+    "english": "melon",
+    "french": "melon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2621,
+    "english": "monument",
+    "french": "monument",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2622,
+    "english": "menu",
+    "french": "menu",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2631,
+    "english": "mezzanine",
+    "french": "mezzanine",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2632,
+    "english": "microphone",
+    "french": "microphone",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2633,
+    "english": "microscope",
+    "french": "microscope",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2641,
+    "english": "milkshake",
+    "french": "milkshake",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2643,
+    "english": "mine",
+    "french": "mine",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2648,
+    "english": "miniature",
+    "french": "miniature",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2649,
+    "english": "minibus",
+    "french": "minibus",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2656,
+    "english": "missile",
+    "french": "missile",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2657,
+    "english": "mission",
+    "french": "mission",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2679,
+    "english": "monochrome",
+    "french": "monochrome",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2680,
+    "english": "monocycle",
+    "french": "monocycle",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2681,
+    "english": "monster truck",
+    "french": "monster truck",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2698,
+    "english": "motel",
+    "french": "motel",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2702,
+    "english": "motif",
+    "french": "motif",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2703,
+    "english": "sport",
+    "french": "sport",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2741,
+    "english": "muffin",
+    "french": "muffin",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2742,
+    "english": "mug",
+    "french": "mug",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2748,
+    "english": "muscle",
+    "french": "muscle",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2749,
+    "english": "muscle car",
+    "french": "Muscle Car",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2762,
+    "english": "nacho",
+    "french": "nacho",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2771,
+    "english": "nature",
+    "french": "nature",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2773,
+    "english": "navigation",
+    "french": "navigation",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2774,
+    "english": "navratri",
+    "french": "navratri",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 2781,
+    "english": "nectar",
+    "french": "nectar",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2782,
+    "english": "nectarine",
+    "french": "nectarine",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2806,
+    "english": "note",
+    "french": "note",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2821,
+    "english": "oasis",
+    "french": "oasis",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2847,
+    "english": "olive",
+    "french": "olive",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2864,
+    "english": "orange",
+    "french": "Orange",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2874,
+    "english": "origami",
+    "french": "origami",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2895,
+    "english": "paddock",
+    "french": "paddock",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2898,
+    "english": "paella",
+    "french": "paella",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2905,
+    "english": "palette",
+    "french": "palette",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2911,
+    "english": "panda",
+    "french": "panda",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2913,
+    "english": "panorama",
+    "french": "panorama",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2928,
+    "english": "parachute",
+    "french": "parachute",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2940,
+    "english": "parking",
+    "french": "parking",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2946,
+    "english": "participant",
+    "french": "participant",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2952,
+    "english": "passage",
+    "french": "passage",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 2964,
+    "english": "patient",
+    "french": "patient",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3001,
+    "english": "penny",
+    "french": "penny",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3007,
+    "english": "pepperoni",
+    "french": "pepperoni",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3010,
+    "english": "performance",
+    "french": "performance",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3013,
+    "english": "pergola",
+    "french": "pergola",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3031,
+    "english": "photo",
+    "french": "photo",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3038,
+    "english": "piano",
+    "french": "piano",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3049,
+    "english": "pigeon",
+    "french": "pigeon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3065,
+    "english": "pipa",
+    "french": "pipa",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3068,
+    "english": "pirate",
+    "french": "pirate",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3074,
+    "english": "pitaya",
+    "french": "pitaya",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3075,
+    "english": "pitbull",
+    "french": "pitbull",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 3080,
+    "english": "pizza",
+    "french": "Pizza",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3083,
+    "english": "pizzeria",
+    "french": "pizzeria",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3087,
+    "english": "plaid",
+    "french": "plaid",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3089,
+    "english": "plan",
+    "french": "plan",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3094,
+    "english": "plantation",
+    "french": "plantation",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3096,
+    "english": "plaque",
+    "french": "plaque",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3100,
+    "english": "plateau",
+    "french": "plateau",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3138,
+    "english": "podium",
+    "french": "podium",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3140,
+    "english": "poinsettia",
+    "french": "poinsettia",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3141,
+    "english": "point",
+    "french": "point",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3148,
+    "english": "police",
+    "french": "police",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3154,
+    "english": "pollen",
+    "french": "pollen",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3155,
+    "english": "pollution",
+    "french": "pollution",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3156,
+    "english": "polo",
+    "french": "polo",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3161,
+    "english": "poncho",
+    "french": "poncho",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3166,
+    "english": "pop",
+    "french": "pop",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3168,
+    "english": "popcorn",
+    "french": "popcorn",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3177,
+    "english": "portfolio",
+    "french": "portfolio",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3179,
+    "english": "portrait",
+    "french": "portrait",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3181,
+    "english": "pose",
+    "french": "pose",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3189,
+    "english": "pot",
+    "french": "pot",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3202,
+    "english": "power see",
+    "french": "power see",
+    "reason": "Opaque canonical phrase, possibly lemmatized powersaw; preserved pending source clarification rather than silently changing its concept."
+  },
+  {
+    "id": 3209,
+    "english": "prescription",
+    "french": "prescription",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3216,
+    "english": "prince",
+    "french": "prince",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3222,
+    "english": "prison",
+    "french": "prison",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3225,
+    "english": "profession",
+    "french": "profession",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3232,
+    "english": "promenade",
+    "french": "promenade",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3239,
+    "english": "publication",
+    "french": "publication",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3242,
+    "english": "pudding",
+    "french": "pudding",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3259,
+    "english": "putt",
+    "french": "putt",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3260,
+    "english": "puzzle",
+    "french": "puzzle",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3263,
+    "english": "python",
+    "french": "python",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3268,
+    "english": "quartz",
+    "french": "quartz",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3270,
+    "english": "quesadilla",
+    "french": "quesadilla",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3272,
+    "english": "quiche",
+    "french": "quiche",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3283,
+    "english": "radar",
+    "french": "radar",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3285,
+    "english": "radio",
+    "french": "radio",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3288,
+    "english": "rail",
+    "french": "rail",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3309,
+    "english": "rat",
+    "french": "rat",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3333,
+    "english": "rectangle",
+    "french": "rectangle",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3354,
+    "english": "relief",
+    "french": "relief",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3355,
+    "english": "religion",
+    "french": "religion",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3357,
+    "english": "relish",
+    "french": "relish",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3364,
+    "english": "reptile",
+    "french": "reptile",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3383,
+    "english": "rhododendron",
+    "french": "rhododendron",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3411,
+    "english": "robot",
+    "french": "robot",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3435,
+    "english": "romance",
+    "french": "romance",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3445,
+    "english": "rose",
+    "french": "rose",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3448,
+    "english": "rottweiler",
+    "french": "rottweiler",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 3456,
+    "english": "rubik's cube",
+    "french": "Rubik's Cube",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 3459,
+    "english": "rugby",
+    "french": "rugby",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3468,
+    "english": "rural",
+    "french": "rural",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3475,
+    "english": "safari",
+    "french": "safari",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3488,
+    "english": "salami",
+    "french": "salami",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3491,
+    "english": "salon",
+    "french": "salon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3492,
+    "english": "salsa",
+    "french": "salsa",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3507,
+    "english": "sandwich",
+    "french": "Sandwich",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3511,
+    "english": "sardine",
+    "french": "sardine",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3512,
+    "english": "sari",
+    "french": "sari",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3513,
+    "english": "sashimi",
+    "french": "sashimi",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3514,
+    "english": "satay",
+    "french": "satay",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3516,
+    "english": "satellite",
+    "french": "satellite",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3517,
+    "english": "satin",
+    "french": "satin",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3518,
+    "english": "sauce",
+    "french": "sauce",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3520,
+    "english": "sauna",
+    "french": "sauna",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3536,
+    "english": "schnauzer",
+    "french": "schnauzer",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 3548,
+    "english": "scone",
+    "french": "scone",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3550,
+    "english": "scooter",
+    "french": "scooter",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3551,
+    "english": "score",
+    "french": "score",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3553,
+    "english": "scorpion",
+    "french": "scorpion",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3554,
+    "english": "scout",
+    "french": "scout",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3568,
+    "english": "sculpture",
+    "french": "sculpture",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3594,
+    "english": "selfie",
+    "french": "selfie",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3601,
+    "english": "service",
+    "french": "service",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3606,
+    "english": "shaker",
+    "french": "shaker",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3628,
+    "english": "shiba inu",
+    "french": "shiba inu",
+    "reason": "Recognized breed name also used in French."
+  },
+  {
+    "id": 3646,
+    "english": "shopping",
+    "french": "shopping",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3656,
+    "english": "shorts",
+    "french": "shorts",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3680,
+    "english": "sidecar",
+    "french": "sidecar",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3685,
+    "english": "signal",
+    "french": "signal",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3686,
+    "english": "signature",
+    "french": "signature",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3689,
+    "english": "silo",
+    "french": "silo",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3701,
+    "english": "skateboard",
+    "french": "Skateboard",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3708,
+    "english": "ski",
+    "french": "ski",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3715,
+    "english": "snowboard",
+    "french": "Snowboard",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3726,
+    "english": "slalom",
+    "french": "slalom",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3773,
+    "english": "soda",
+    "french": "soda",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3774,
+    "english": "softball",
+    "french": "softball",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3778,
+    "english": "solo",
+    "french": "solo",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3779,
+    "english": "solution",
+    "french": "solution",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3780,
+    "english": "sombrero",
+    "french": "sombrero",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3787,
+    "english": "souvenir",
+    "french": "souvenir",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3789,
+    "english": "spa",
+    "french": "spa",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3842,
+    "english": "squat",
+    "french": "squat",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3862,
+    "english": "stand",
+    "french": "stand",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3873,
+    "english": "station",
+    "french": "station",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3876,
+    "english": "statue",
+    "french": "statue",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3877,
+    "english": "steak",
+    "french": "steak",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3902,
+    "english": "stock",
+    "french": "Stock",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3910,
+    "english": "stop",
+    "french": "stop",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3955,
+    "english": "structure",
+    "french": "structure",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3956,
+    "english": "studio",
+    "french": "studio",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3965,
+    "english": "stupa",
+    "french": "stupa",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3966,
+    "english": "style",
+    "french": "style",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 3982,
+    "english": "suite",
+    "french": "suite",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4000,
+    "english": "super bowl",
+    "french": "super bowl",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 4006,
+    "english": "supporter",
+    "french": "supporter",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4007,
+    "english": "surf",
+    "french": "surf",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4008,
+    "english": "surface",
+    "french": "surface",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4017,
+    "english": "suspension",
+    "french": "suspension",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4019,
+    "english": "suv",
+    "french": "SUV",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4028,
+    "english": "sweatshirt",
+    "french": "sweatshirt",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4046,
+    "english": "synagogue",
+    "french": "synagogue",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4051,
+    "english": "t-shirt",
+    "french": "t-shirt",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4061,
+    "english": "taco",
+    "french": "taco",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4062,
+    "english": "tae kwon do",
+    "french": "tae kwon do",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4063,
+    "english": "tai chi",
+    "french": "tai chi",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4074,
+    "english": "tarmac",
+    "french": "tarmac",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4075,
+    "english": "taro",
+    "french": "taro",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4080,
+    "english": "tatami",
+    "french": "tatami",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4100,
+    "english": "tee",
+    "french": "tee",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4110,
+    "english": "temple",
+    "french": "temple",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4111,
+    "english": "tempura",
+    "french": "tempura",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4112,
+    "english": "tennis",
+    "french": "tennis",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4119,
+    "english": "tequila",
+    "french": "tequila",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4120,
+    "english": "terminal",
+    "french": "terminal",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4122,
+    "english": "terrain",
+    "french": "terrain",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4123,
+    "english": "terrarium",
+    "french": "terrarium",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4131,
+    "english": "texture",
+    "french": "texture",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4132,
+    "english": "thanksgiving",
+    "french": "Thanksgiving",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 4138,
+    "english": "thermos",
+    "french": "thermos",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4140,
+    "english": "thermostat",
+    "french": "thermostat",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4168,
+    "english": "tiramisu",
+    "french": "tiramisu",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4171,
+    "english": "toast",
+    "french": "toast",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4177,
+    "english": "tofu",
+    "french": "tofu",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4197,
+    "english": "tortilla",
+    "french": "tortilla",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4201,
+    "english": "totoro",
+    "french": "totoro",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 4202,
+    "english": "toucan",
+    "french": "toucan",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4204,
+    "english": "touchdown",
+    "french": "touchdown",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4205,
+    "english": "tour",
+    "french": "tour",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4215,
+    "english": "tower bridge",
+    "french": "Tower Bridge",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 4225,
+    "english": "tradition",
+    "french": "tradition",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4235,
+    "english": "train",
+    "french": "Train",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4246,
+    "english": "trampoline",
+    "french": "trampoline",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4261,
+    "english": "triangle",
+    "french": "triangle",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4262,
+    "english": "triathlon",
+    "french": "triathlon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4266,
+    "english": "tricycle",
+    "french": "tricycle",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4268,
+    "english": "trio",
+    "french": "trio",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4270,
+    "english": "trombone",
+    "french": "trombone",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4279,
+    "english": "tube",
+    "french": "tube",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4284,
+    "english": "tunnel",
+    "french": "tunnel",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4285,
+    "english": "turbine",
+    "french": "turbine",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4289,
+    "english": "turquoise",
+    "french": "turquoise",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4306,
+    "english": "type",
+    "french": "type",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4310,
+    "english": "ultraman",
+    "french": "ultraman",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 4328,
+    "english": "vampire",
+    "french": "vampire",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4333,
+    "english": "vase",
+    "french": "Vase",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4348,
+    "english": "vespa",
+    "french": "vespa",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 4361,
+    "english": "villa",
+    "french": "villa",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4362,
+    "english": "village",
+    "french": "village",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4366,
+    "english": "violence",
+    "french": "violence",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4367,
+    "english": "violet",
+    "french": "violet",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4371,
+    "english": "vision",
+    "french": "vision",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4373,
+    "english": "vodka",
+    "french": "vodka",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4375,
+    "english": "volleyball",
+    "french": "volleyball",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4379,
+    "english": "voyage",
+    "french": "voyage",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4383,
+    "english": "wagon",
+    "french": "wagon",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4442,
+    "english": "web",
+    "french": "web",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4443,
+    "english": "webcam",
+    "french": "webcam",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4488,
+    "english": "Wii",
+    "french": "Wii",
+    "reason": "Proper name, brand, place, character, work or named event; no literal translation."
+  },
+  {
+    "id": 4530,
+    "english": "wok",
+    "french": "wok",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4565,
+    "english": "yacht",
+    "french": "yacht",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4566,
+    "english": "yak",
+    "french": "yak",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4569,
+    "english": "yoga",
+    "french": "yoga",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4582,
+    "english": "zombie",
+    "french": "zombie",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4583,
+    "english": "zongzi",
+    "french": "zongzi",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  },
+  {
+    "id": 4584,
+    "english": "zoo",
+    "french": "zoo",
+    "reason": "French shared spelling or established loanword, culinary/cultural/technical name; reviewed in the retained-name list."
+  }
+]

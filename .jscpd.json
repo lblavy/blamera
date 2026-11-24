@@ -1,0 +1,10 @@
+{
+  "path": ["app/src/main/java"],
+  "format": ["kotlin"],
+  "minLines": 5,
+  "minTokens": 50,
+  "reporters": ["json", "html", "console"],
+  "output": "build/reports/quality/duplication",
+  "absolute": true,
+  "gitignore": false
+}

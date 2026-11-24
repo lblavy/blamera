@@ -1,0 +1,9 @@
+{
+  "name": "blamera-quality",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local duplication analysis only; not an Android runtime dependency",
+  "devDependencies": {
+    "jscpd": "4.0.5"
+  }
+}

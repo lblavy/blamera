@@ -1,0 +1,14 @@
+build:
+  maxIssues: 0
+config:
+  validation: true
+complexity:
+  CognitiveComplexMethod:
+    active: true
+    threshold: 15
+  CyclomaticComplexMethod:
+    active: true
+    threshold: 10
+naming:
+  FunctionNaming:
+    ignoreAnnotated: ['Composable']

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- Vision stays local; only the explicit ChatGPT trial uses app-owned networking. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" tools:node="remove" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+    <queries>
+        <package android:name="com.google.ar.lens" />
+        <package android:name="com.google.android.googlequicksearchbox" />
+    </queries>
+    <application
+        android:allowBackup="false"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Blamera">
+        <provider
+            android:name=".information.ExpiringSearchImageProvider"
+            android:authorities="${applicationId}.lens-images"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/lens_share_paths" />
+        </provider>
+        <activity
+            android:name=".chatgpt.ui.ChatGptTrialActivity"
+            android:screenOrientation="fullUser"
+            android:exported="false" />
+        <activity
+            android:name=".benchmark.BenchmarkActivity"
+            android:screenOrientation="fullUser"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="fullUser"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

@@ -1,0 +1,20 @@
+Blamera : inférence personnelle locale de YOLO11n-seg.
+
+Modèle et checkpoint : Ultralytics, YOLO11n-seg, release assets v8.3.0,
+actif GitHub 196201396, source :
+https://github.com/ultralytics/assets/releases/download/v8.3.0/yolo11n-seg.pt
+Licence annoncée AGPL-3.0, texte intégral joint dans LICENSE-model-AGPL-3.0.txt.
+SHA-256 checkpoint : 55ed65c56c91713d23e8402371c6c49a6fd84f257f7dce452e8d70e41dcbe152
+
+Export local FP32, opset17, 640x640, batch1, sans NMS intégré, ONNX :
+38325721a41fcd732b0a30512ffa8d564b1a8a74ca8c1d6b7e7f37609b2d321b
+Recette, versions et paramètres : experiments/m1-01/ dans les sources Blamera.
+Métadonnée de date de cet export : 2026-10-26T18:13:08.173395+01:00.
+Un autre export peut avoir une empreinte différente ; aucune équivalence binaire automatique.
+
+ONNX Runtime 1.31.0 : Microsoft Corporation, licence MIT jointe dans
+LICENSE-onnxruntime-MIT.txt. Fournisseur CPU uniquement sélectionné.
+
+Les sources propres du projet gardent leur licence. Cette utilisation personnelle
+ne publie ni ne transmet le modèle ; toute distribution ultérieure demande une revue
+des licences, notices et obligations applicables.

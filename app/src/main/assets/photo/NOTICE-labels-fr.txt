@@ -1,0 +1,35 @@
+Blamera French display names — 4585 position-aligned YOLOE categories.
+
+The original ordered English vocabulary is unchanged. Its origin and AGPL-3.0
+model notice are described in photo/NOTICE.txt and benchmark/LICENSE-models-AGPL.txt.
+The French catalogue is a derived display resource, not a replacement vocabulary
+for inference. Distinct original category IDs are retained, including synonyms.
+
+Initial French translations were generated locally on the development PC using:
+Helsinki-NLP / OPUS-MT — opus-mt-tc-big-en-fr, release 2022-03-09,
+revision 6e062862ced6f5622a589ab2aadc2a1d4978db78.
+https://huggingface.co/Helsinki-NLP/opus-mt-tc-big-en-fr/tree/6e062862ced6f5622a589ab2aadc2a1d4978db78
+Model card licence: Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+Attribution: Helsinki-NLP / OPUS-MT contributors; Jörg Tiedemann and Santhosh
+Thottingal, “OPUS-MT — Building open translation services for the World”, 2020.
+https://aclanthology.org/2020.eamt-1.61/
+
+Changes by Blamera: positional conversion to French display strings, NFC
+normalization, explicit lexical corrections, French alternatives for ambiguous
+isolated source words, and reuse of the project's existing French COCO names.
+Translation/correction agents read all pairs and targeted likely lexical errors;
+this is not expert linguistic certification. Some proper/scientific names and
+French loanwords legitimately match English. Opaque original labels “power see”,
+“jackcrab” and truncated “bonasa umbellu” remain explicit documented exceptions.
+No endorsement by the model authors is implied. This notice conservatively
+preserves CC BY attribution for the preparation model and derived translations;
+it does not replace the original vocabulary/model licence.
+
+Only the static French catalogue and provenance are embedded in Blamera.
+No translation weights or translation SDK are installed on the phone. No photos
+or personal data were used or sent to a translation service. Preparation was
+free, offline CPU inference after public model download.
+
+Hashes, generation settings, source alignment and correction references:
+photo/labels-fr-provenance.json and experiments/m1-labels-fr/ in Blamera sources.

@@ -1,0 +1,14 @@
+[run]
+branch = True
+source = scripts
+omit = scripts/tests/*
+data_file = build/reports/quality/python/.coverage
+
+[json]
+output = build/reports/quality/python/coverage.json
+
+[xml]
+output = build/reports/quality/python/coverage.xml
+
+[html]
+directory = build/reports/quality/python/html

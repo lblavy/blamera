@@ -1,0 +1,1240 @@
+{
+  "frozen_before_corpus_inference": true,
+  "frozen_utc": "2026-10-27T13:28:43.202541+00:00",
+  "images": [
+    {
+      "id": "coco-000000000036",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000036.jpg",
+      "sha256": "2bb515b26d250fcdf16effa3a7280babe32ae9b6f7608563e53cd01f5cd66ad4",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000036.txt",
+      "annotation_sha256": "149e3450743a5aa99523edaa0064897a497f1b1ffc68010266800445a5a0b018",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 2,
+      "class_ids": [
+        25,
+        0
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000036.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "coco-000000000049",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000049.jpg",
+      "sha256": "bc1482d2cba6e4db671c8eedbc7c8d86e0a31c927587a24297647f530349fe7b",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000049.txt",
+      "annotation_sha256": "fa1b4f1d77457edf1433ba792fa865178d0635d2955698691d4da6e06294daa0",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 9,
+      "class_ids": [
+        17,
+        17,
+        0,
+        0,
+        0,
+        58,
+        0,
+        0,
+        0
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000049.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "coco-000000000443",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000443.jpg",
+      "sha256": "f6483d57885c348a27dcdc272e4bd5296c75596d7c64fe638b24dbb503209902",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000443.txt",
+      "annotation_sha256": "11364932f6a1376ed9874ffb6963f8481ae6df54d24bf8ee71f84dcd4f464f84",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 6,
+      "class_ids": [
+        15,
+        0,
+        0,
+        65,
+        57,
+        0
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000443.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "coco-000000000575",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000575.jpg",
+      "sha256": "839789fe6192bbd5776761d675aa76017b67810b556f3e25e2f3a31acffd86f3",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000575.txt",
+      "annotation_sha256": "223556a31a7103def65f3617710c2f5508961ec2688cef01f84c8d4c559d6b5a",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 1,
+      "class_ids": [
+        15
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000575.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "coco-000000000042",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000042.jpg",
+      "sha256": "9008ddd846fc6002ec47ea6067cb92cf70f294773cc15765b6a14ffb392f52fa",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000042.txt",
+      "annotation_sha256": "a7c237042a766c6346991d3b2551f56b43b3a3dfe4c7ea783dcfa9a417c4daf5",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 1,
+      "class_ids": [
+        16
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000042.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "coco-000000000074",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000074.jpg",
+      "sha256": "99d864809a7355862032b54283bd4808971da5a2b976b20467203e6c192e755d",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000074.txt",
+      "annotation_sha256": "20a419571b3942dc82fe6e679ff79c1a3e18885a8c34f48a05fa18daca2e1df8",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 8,
+      "class_ids": [
+        16,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000074.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "coco-000000000142",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000142.jpg",
+      "sha256": "3c852dc71abcf6cf06ed58202d1b2c850bb783553f05c63cd6ca511936b431aa",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000142.txt",
+      "annotation_sha256": "590f7f44a8d2c84ecfd3dce69f3585f8a87f617d07e39fe89a8c83fd347afc3d",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 4,
+      "class_ids": [
+        39,
+        60,
+        46,
+        48
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000142.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "coco-000000000164",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000164.jpg",
+      "sha256": "186a1427f32ce7e5cf17052f66d5ee7cd57d7f83762001891e16195a6bda586d",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000164.txt",
+      "annotation_sha256": "4dd92276fbc324736b8341d9ae8d14592092de34b8c2b47a10bedd734d14b466",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 40,
+      "class_ids": [
+        39,
+        39,
+        39,
+        39,
+        39,
+        72,
+        39,
+        39,
+        39,
+        39,
+        39,
+        56,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        41,
+        41,
+        41,
+        41,
+        45,
+        68,
+        69,
+        40,
+        40,
+        40,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        45,
+        45,
+        45,
+        45,
+        45,
+        60
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000164.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "coco-000000000208",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000208.jpg",
+      "sha256": "5ef004c8572c1d3a5e7c92ed16edc47529892a5306c7f70216e332a6cd65ad2d",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000208.txt",
+      "annotation_sha256": "f69c6fa218c54ba46961c12e8d432236c0206e15568671e7c69e6a815dcb9379",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 4,
+      "class_ids": [
+        71,
+        71,
+        79,
+        79
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000208.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "coco-000000000562",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000562.jpg",
+      "sha256": "e31320272d768add7113d41a9c65407fd4868da1229f8658fc877e9b07c4c794",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000562.txt",
+      "annotation_sha256": "dd11ce5b4b03f12adab1f1c38c14c82f58429955e13f13f8ddcda2bd09907942",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 4,
+      "class_ids": [
+        79,
+        79,
+        79,
+        41
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000562.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "coco-000000000196",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000196.jpg",
+      "sha256": "1e1d801e63ed90d34ee666845ebcc17b56edef1f864d048ff588ce7073bc94a2",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000196.txt",
+      "annotation_sha256": "1e6bfcb5a2f475b080242ce5847681b412b52a3b6376ed4e648bdbf59cdc3b88",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 42,
+      "class_ids": [
+        44,
+        51,
+        51,
+        51,
+        51,
+        44,
+        44,
+        44,
+        44,
+        44,
+        45,
+        45,
+        45,
+        45,
+        45,
+        45,
+        45,
+        45,
+        45,
+        50,
+        50,
+        50,
+        51,
+        51,
+        60,
+        42,
+        44,
+        45,
+        45,
+        45,
+        50,
+        51,
+        51,
+        51,
+        51,
+        51,
+        51,
+        44,
+        50,
+        50,
+        50,
+        45
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000196.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "coco-000000000315",
+      "image": "build/reports/validation/m1-yoloe/corpus/coco128-seg/images/train2017/000000000315.jpg",
+      "sha256": "5804350236bc0d52715f9354498d52f8d260b0e3d8f965526cd85ca6a18b7caa",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/coco128-seg/labels/train2017/000000000315.txt",
+      "annotation_sha256": "96bc5c72d0b72a029e57735a4a189fb9090c75cceb5dc33e099d08694134d9bd",
+      "annotation_kind": "COCO-derived instance polygons, normalized coordinates",
+      "object_count": 38,
+      "class_ids": [
+        25,
+        25,
+        25,
+        25,
+        25,
+        25,
+        25,
+        25,
+        25,
+        25,
+        25,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        25,
+        26,
+        56,
+        0,
+        0,
+        0,
+        0,
+        0,
+        56,
+        56,
+        56,
+        56,
+        56,
+        56,
+        56,
+        56,
+        0,
+        25,
+        26,
+        26
+      ],
+      "source_url": "http://images.cocodataset.org/train2017/000000000315.jpg",
+      "license": "COCO annotations CC BY 4.0; Flickr images retain per-author Creative Commons terms; local noncommercial research only, no redistribution",
+      "reason": "pre-inference deterministic annotated category coverage; train2017 may have been seen in training"
+    },
+    {
+      "id": "ADE_val_00000001",
+      "image": "build/reports/validation/m1-yoloe/corpus/ade/sampleData/images/ADE_val_00000001.jpg",
+      "sha256": "99f7af15a7bd66f3d2ad8b98f1b41941c27407a35d303f9b70724cb231a36098",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/ade/sampleData/annotations/ADE_val_00000001.png",
+      "annotation_sha256": "e085b2d2d8fbc15260c4fb9d0617ead1ab85d905dd0a06c7fb7b69e8604586d7",
+      "annotation_kind": "semantic labels1..150, 0 ignored; compare class unions not instances",
+      "source_url": "https://raw.githubusercontent.com/CSAILVision/sceneparsing/e20222964c58eba41d8986d45d652d93adc234a5/sampleData/images/ADE_val_00000001.jpg",
+      "license": "ADE20K noncommercial research/teaching terms; third-party photo rights; annotations BSD3; do not redistribute",
+      "terms_url": "https://ade20k.csail.mit.edu/terms/",
+      "reason": "first two official samples, visually confirmed before inference: building and trees; road GT also present in first"
+    },
+    {
+      "id": "ADE_val_00000002",
+      "image": "build/reports/validation/m1-yoloe/corpus/ade/sampleData/images/ADE_val_00000002.jpg",
+      "sha256": "ce373a18513e5a357d7fd2d2f70e1db2249417635068e108cd85ddca08195f30",
+      "annotation": "build/reports/validation/m1-yoloe/corpus/ade/sampleData/annotations/ADE_val_00000002.png",
+      "annotation_sha256": "18578c873b1a9633d4ee1cf24646d49521e33e95328f1c744292aa3b8be0b6af",
+      "annotation_kind": "semantic labels1..150, 0 ignored; compare class unions not instances",
+      "source_url": "https://raw.githubusercontent.com/CSAILVision/sceneparsing/e20222964c58eba41d8986d45d652d93adc234a5/sampleData/images/ADE_val_00000002.jpg",
+      "license": "ADE20K noncommercial research/teaching terms; third-party photo rights; annotations BSD3; do not redistribute",
+      "terms_url": "https://ade20k.csail.mit.edu/terms/",
+      "reason": "first two official samples, visually confirmed before inference: building and trees; road GT also present in first"
+    },
+    {
+      "id": "nasa-astronaut",
+      "image": "build/reports/validation/m1-yoloe/corpus/astronaut.png",
+      "sha256": "88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5",
+      "annotation": null,
+      "source_url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.19.3/skimage/data/astronaut.png",
+      "license": "NASA public domain, Eileen Collins; source skimage.data.astronaut documentation",
+      "reason": "qualitative parity fixture, no detection/mask ground truth"
+    },
+    {
+      "id": "synthetic-negative",
+      "image": "build/reports/validation/m1-yoloe/corpus/negative.png",
+      "sha256": "1cb06d2b93bec2ddd66cc59468e206be531d817b11d51c6319446e72181dc692",
+      "annotation": null,
+      "source_url": "generated constant RGB114 640x480",
+      "license": "project synthetic fixture, no personal content",
+      "reason": "negative with no real object, count false positives"
+    }
+  ],
+  "selection_rule": "Explicit IDs selected before any corpus inference: first2 person/cat/dog/bottle/toothbrush annotation examples (036,049;443,575;042,074;142,164;208,562) then2 richest not already used (196,315). Fixed16item list is authoritative.",
+  "excluded": "Other116 COCO images excluded by bounded predeclared sample; no distribution claims; not a held-out benchmark.",
+  "names80": {
+    "0": "person",
+    "1": "bicycle",
+    "2": "car",
+    "3": "motorcycle",
+    "4": "airplane",
+    "5": "bus",
+    "6": "train",
+    "7": "truck",
+    "8": "boat",
+    "9": "traffic light",
+    "10": "fire hydrant",
+    "11": "stop sign",
+    "12": "parking meter",
+    "13": "bench",
+    "14": "bird",
+    "15": "cat",
+    "16": "dog",
+    "17": "horse",
+    "18": "sheep",
+    "19": "cow",
+    "20": "elephant",
+    "21": "bear",
+    "22": "zebra",
+    "23": "giraffe",
+    "24": "backpack",
+    "25": "umbrella",
+    "26": "handbag",
+    "27": "tie",
+    "28": "suitcase",
+    "29": "frisbee",
+    "30": "skis",
+    "31": "snowboard",
+    "32": "sports ball",
+    "33": "kite",
+    "34": "baseball bat",
+    "35": "baseball glove",
+    "36": "skateboard",
+    "37": "surfboard",
+    "38": "tennis racket",
+    "39": "bottle",
+    "40": "wine glass",
+    "41": "cup",
+    "42": "fork",
+    "43": "knife",
+    "44": "spoon",
+    "45": "bowl",
+    "46": "banana",
+    "47": "apple",
+    "48": "sandwich",
+    "49": "orange",
+    "50": "broccoli",
+    "51": "carrot",
+    "52": "hot dog",
+    "53": "pizza",
+    "54": "donut",
+    "55": "cake",
+    "56": "chair",
+    "57": "couch",
+    "58": "potted plant",
+    "59": "bed",
+    "60": "dining table",
+    "61": "toilet",
+    "62": "tv",
+    "63": "laptop",
+    "64": "mouse",
+    "65": "remote",
+    "66": "keyboard",
+    "67": "cell phone",
+    "68": "microwave",
+    "69": "oven",
+    "70": "toaster",
+    "71": "sink",
+    "72": "refrigerator",
+    "73": "book",
+    "74": "clock",
+    "75": "vase",
+    "76": "scissors",
+    "77": "teddy bear",
+    "78": "hair drier",
+    "79": "toothbrush"
+  },
+  "pf_names_sha256": "8c0feaf6bae20e85599c8c8d8eb2db97d521e650167929b7ac2a8c0863a0e0cf",
+  "common_mapping": {
+    "0": {
+      "name": "person",
+      "pf_ids": [
+        2163
+      ],
+      "accepted_names": [
+        "person"
+      ]
+    },
+    "1": {
+      "name": "bicycle",
+      "pf_ids": [
+        414
+      ],
+      "accepted_names": [
+        "bicycle"
+      ]
+    },
+    "2": {
+      "name": "car",
+      "pf_ids": [
+        726
+      ],
+      "accepted_names": [
+        "car"
+      ]
+    },
+    "3": {
+      "name": "motorcycle",
+      "pf_ids": [
+        2706
+      ],
+      "accepted_names": [
+        "motorcycle"
+      ]
+    },
+    "4": {
+      "name": "airplane",
+      "pf_ids": [
+        39
+      ],
+      "accepted_names": [
+        "airplane",
+        "plane"
+      ]
+    },
+    "5": {
+      "name": "bus",
+      "pf_ids": [
+        640
+      ],
+      "accepted_names": [
+        "bus"
+      ]
+    },
+    "6": {
+      "name": "train",
+      "pf_ids": [
+        4235
+      ],
+      "accepted_names": [
+        "train"
+      ]
+    },
+    "7": {
+      "name": "truck",
+      "pf_ids": [
+        4276
+      ],
+      "accepted_names": [
+        "truck"
+      ]
+    },
+    "8": {
+      "name": "boat",
+      "pf_ids": [
+        491
+      ],
+      "accepted_names": [
+        "boat"
+      ]
+    },
+    "9": {
+      "name": "traffic light",
+      "pf_ids": [
+        3915
+      ],
+      "accepted_names": [
+        "traffic light"
+      ]
+    },
+    "10": {
+      "name": "fire hydrant",
+      "pf_ids": [
+        2176
+      ],
+      "accepted_names": [
+        "fire hydrant",
+        "hydrant"
+      ]
+    },
+    "11": {
+      "name": "stop sign",
+      "pf_ids": [
+        3913
+      ],
+      "accepted_names": [
+        "stop sign"
+      ]
+    },
+    "12": {
+      "name": "parking meter",
+      "pf_ids": [
+        2942
+      ],
+      "accepted_names": [
+        "parking meter"
+      ]
+    },
+    "13": {
+      "name": "bench",
+      "pf_ids": [
+        402
+      ],
+      "accepted_names": [
+        "bench"
+      ]
+    },
+    "14": {
+      "name": "bird",
+      "pf_ids": [
+        437
+      ],
+      "accepted_names": [
+        "bird"
+      ]
+    },
+    "15": {
+      "name": "cat",
+      "pf_ids": [
+        780
+      ],
+      "accepted_names": [
+        "cat"
+      ]
+    },
+    "16": {
+      "name": "dog",
+      "pf_ids": [
+        1363
+      ],
+      "accepted_names": [
+        "dog"
+      ]
+    },
+    "17": {
+      "name": "horse",
+      "pf_ids": [
+        1715
+      ],
+      "accepted_names": [
+        "horse"
+      ]
+    },
+    "18": {
+      "name": "sheep",
+      "pf_ids": [
+        3618
+      ],
+      "accepted_names": [
+        "sheep"
+      ]
+    },
+    "19": {
+      "name": "cow",
+      "pf_ids": [
+        1160
+      ],
+      "accepted_names": [
+        "cow"
+      ]
+    },
+    "20": {
+      "name": "elephant",
+      "pf_ids": [
+        1482
+      ],
+      "accepted_names": [
+        "elephant"
+      ]
+    },
+    "21": {
+      "name": "bear",
+      "pf_ids": [
+        366
+      ],
+      "accepted_names": [
+        "bear"
+      ]
+    },
+    "22": {
+      "name": "zebra",
+      "pf_ids": [
+        4577
+      ],
+      "accepted_names": [
+        "zebra"
+      ]
+    },
+    "23": {
+      "name": "giraffe",
+      "pf_ids": [
+        1870
+      ],
+      "accepted_names": [
+        "giraffe"
+      ]
+    },
+    "24": {
+      "name": "backpack",
+      "pf_ids": [
+        218
+      ],
+      "accepted_names": [
+        "backpack"
+      ]
+    },
+    "25": {
+      "name": "umbrella",
+      "pf_ids": [
+        4311
+      ],
+      "accepted_names": [
+        "umbrella"
+      ]
+    },
+    "26": {
+      "name": "handbag",
+      "pf_ids": [
+        2014
+      ],
+      "accepted_names": [
+        "handbag"
+      ]
+    },
+    "27": {
+      "name": "tie",
+      "pf_ids": [
+        4158
+      ],
+      "accepted_names": [
+        "tie"
+      ]
+    },
+    "28": {
+      "name": "suitcase",
+      "pf_ids": [
+        2500
+      ],
+      "accepted_names": [
+        "suitcase",
+        "luggage"
+      ]
+    },
+    "29": {
+      "name": "frisbee",
+      "pf_ids": [
+        1790
+      ],
+      "accepted_names": [
+        "frisbee"
+      ]
+    },
+    "30": {
+      "name": "skis",
+      "pf_ids": [
+        3708
+      ],
+      "accepted_names": [
+        "skis",
+        "ski"
+      ]
+    },
+    "31": {
+      "name": "snowboard",
+      "pf_ids": [
+        3715
+      ],
+      "accepted_names": [
+        "snowboard"
+      ]
+    },
+    "32": {
+      "name": "sports ball",
+      "pf_ids": [
+        3825
+      ],
+      "accepted_names": [
+        "sports ball"
+      ]
+    },
+    "33": {
+      "name": "kite",
+      "pf_ids": [
+        2328
+      ],
+      "accepted_names": [
+        "kite"
+      ]
+    },
+    "34": {
+      "name": "baseball bat",
+      "pf_ids": [
+        297
+      ],
+      "accepted_names": [
+        "baseball bat"
+      ]
+    },
+    "35": {
+      "name": "baseball glove",
+      "pf_ids": [
+        301
+      ],
+      "accepted_names": [
+        "baseball glove"
+      ]
+    },
+    "36": {
+      "name": "skateboard",
+      "pf_ids": [
+        3701
+      ],
+      "accepted_names": [
+        "skateboard"
+      ]
+    },
+    "37": {
+      "name": "surfboard",
+      "pf_ids": [
+        4009
+      ],
+      "accepted_names": [
+        "surfboard"
+      ]
+    },
+    "38": {
+      "name": "tennis racket",
+      "pf_ids": [
+        4117
+      ],
+      "accepted_names": [
+        "tennis racket"
+      ]
+    },
+    "39": {
+      "name": "bottle",
+      "pf_ids": [
+        525
+      ],
+      "accepted_names": [
+        "bottle"
+      ]
+    },
+    "40": {
+      "name": "wine glass",
+      "pf_ids": [
+        4515
+      ],
+      "accepted_names": [
+        "wine glass"
+      ]
+    },
+    "41": {
+      "name": "cup",
+      "pf_ids": [
+        1225
+      ],
+      "accepted_names": [
+        "cup"
+      ]
+    },
+    "42": {
+      "name": "fork",
+      "pf_ids": [
+        1762
+      ],
+      "accepted_names": [
+        "fork"
+      ]
+    },
+    "43": {
+      "name": "knife",
+      "pf_ids": [
+        2332
+      ],
+      "accepted_names": [
+        "knife"
+      ]
+    },
+    "44": {
+      "name": "spoon",
+      "pf_ids": [
+        3821
+      ],
+      "accepted_names": [
+        "spoon"
+      ]
+    },
+    "45": {
+      "name": "bowl",
+      "pf_ids": [
+        537
+      ],
+      "accepted_names": [
+        "bowl"
+      ]
+    },
+    "46": {
+      "name": "banana",
+      "pf_ids": [
+        251
+      ],
+      "accepted_names": [
+        "banana"
+      ]
+    },
+    "47": {
+      "name": "apple",
+      "pf_ids": [
+        101
+      ],
+      "accepted_names": [
+        "apple"
+      ]
+    },
+    "48": {
+      "name": "sandwich",
+      "pf_ids": [
+        3507
+      ],
+      "accepted_names": [
+        "sandwich"
+      ]
+    },
+    "49": {
+      "name": "orange",
+      "pf_ids": [
+        2864
+      ],
+      "accepted_names": [
+        "orange"
+      ]
+    },
+    "50": {
+      "name": "broccoli",
+      "pf_ids": [
+        584
+      ],
+      "accepted_names": [
+        "broccoli"
+      ]
+    },
+    "51": {
+      "name": "carrot",
+      "pf_ids": [
+        760
+      ],
+      "accepted_names": [
+        "carrot"
+      ]
+    },
+    "52": {
+      "name": "hot dog",
+      "pf_ids": [
+        2147
+      ],
+      "accepted_names": [
+        "hot dog"
+      ]
+    },
+    "53": {
+      "name": "pizza",
+      "pf_ids": [
+        3080
+      ],
+      "accepted_names": [
+        "pizza"
+      ]
+    },
+    "54": {
+      "name": "donut",
+      "pf_ids": [
+        1378
+      ],
+      "accepted_names": [
+        "donut"
+      ]
+    },
+    "55": {
+      "name": "cake",
+      "pf_ids": [
+        678
+      ],
+      "accepted_names": [
+        "cake"
+      ]
+    },
+    "56": {
+      "name": "chair",
+      "pf_ids": [
+        821
+      ],
+      "accepted_names": [
+        "chair"
+      ]
+    },
+    "57": {
+      "name": "couch",
+      "pf_ids": [
+        1141
+      ],
+      "accepted_names": [
+        "couch"
+      ]
+    },
+    "58": {
+      "name": "potted plant",
+      "pf_ids": [
+        2157
+      ],
+      "accepted_names": [
+        "potted plant",
+        "houseplant"
+      ]
+    },
+    "59": {
+      "name": "bed",
+      "pf_ids": [
+        375
+      ],
+      "accepted_names": [
+        "bed"
+      ]
+    },
+    "60": {
+      "name": "dining table",
+      "pf_ids": [
+        1325
+      ],
+      "accepted_names": [
+        "dining table",
+        "dinning table"
+      ]
+    },
+    "61": {
+      "name": "toilet",
+      "pf_ids": [
+        4178
+      ],
+      "accepted_names": [
+        "toilet",
+        "toilet bowl"
+      ]
+    },
+    "62": {
+      "name": "tv",
+      "pf_ids": [
+        4105
+      ],
+      "accepted_names": [
+        "tv",
+        "television"
+      ]
+    },
+    "63": {
+      "name": "laptop",
+      "pf_ids": [
+        2373
+      ],
+      "accepted_names": [
+        "laptop"
+      ]
+    },
+    "64": {
+      "name": "mouse",
+      "pf_ids": [
+        2729
+      ],
+      "accepted_names": [
+        "mouse"
+      ]
+    },
+    "65": {
+      "name": "remote",
+      "pf_ids": [
+        3360
+      ],
+      "accepted_names": [
+        "remote"
+      ]
+    },
+    "66": {
+      "name": "keyboard",
+      "pf_ids": [
+        1062
+      ],
+      "accepted_names": [
+        "keyboard"
+      ]
+    },
+    "67": {
+      "name": "cell phone",
+      "pf_ids": [
+        809,
+        2241,
+        3028
+      ],
+      "accepted_names": [
+        "cell phone",
+        "cellular telephone",
+        "mobile phone",
+        "phone",
+        "smartphone",
+        "iphone"
+      ]
+    },
+    "68": {
+      "name": "microwave",
+      "pf_ids": [
+        2634
+      ],
+      "accepted_names": [
+        "microwave"
+      ]
+    },
+    "69": {
+      "name": "oven",
+      "pf_ids": [
+        2886
+      ],
+      "accepted_names": [
+        "oven"
+      ]
+    },
+    "70": {
+      "name": "toaster",
+      "pf_ids": [
+        4172
+      ],
+      "accepted_names": [
+        "toaster"
+      ]
+    },
+    "71": {
+      "name": "sink",
+      "pf_ids": [
+        3696
+      ],
+      "accepted_names": [
+        "sink"
+      ]
+    },
+    "72": {
+      "name": "refrigerator",
+      "pf_ids": [
+        1785
+      ],
+      "accepted_names": [
+        "refrigerator",
+        "fridge"
+      ]
+    },
+    "73": {
+      "name": "book",
+      "pf_ids": [
+        512
+      ],
+      "accepted_names": [
+        "book"
+      ]
+    },
+    "74": {
+      "name": "clock",
+      "pf_ids": [
+        397
+      ],
+      "accepted_names": [
+        "clock"
+      ]
+    },
+    "75": {
+      "name": "vase",
+      "pf_ids": [
+        4333
+      ],
+      "accepted_names": [
+        "vase"
+      ]
+    },
+    "76": {
+      "name": "scissors",
+      "pf_ids": [
+        3546
+      ],
+      "accepted_names": [
+        "scissors"
+      ]
+    },
+    "77": {
+      "name": "teddy bear",
+      "pf_ids": [
+        4099
+      ],
+      "accepted_names": [
+        "teddy bear",
+        "teddy"
+      ]
+    },
+    "78": {
+      "name": "hair drier",
+      "pf_ids": [
+        478
+      ],
+      "accepted_names": [
+        "hair drier",
+        "hair dryer"
+      ]
+    },
+    "79": {
+      "name": "toothbrush",
+      "pf_ids": [
+        4190
+      ],
+      "accepted_names": [
+        "toothbrush"
+      ]
+    }
+  },
+  "missing_common_names": [],
+  "semantic_extension": {
+    "tree": 5,
+    "building": 2,
+    "road": 7
+  },
+  "parameters": {
+    "imgsz": 640,
+    "conf": 0.35,
+    "iou_nms": 0.5,
+    "max_candidates": 300,
+    "max_detections": 20,
+    "diagnostic_max_detections": 100,
+    "opset": 17,
+    "FP32": true,
+    "static": true,
+    "nms_export": false,
+    "end2end_export": false,
+    "simplify": false,
+    "ort_intra_threads": 2,
+    "ort_inter_threads": 1,
+    "warmups": 3,
+    "repetitions": 10,
+    "p95": "numpy percentile linear, descriptive N10 per image; aggregate over160 times"
+  },
+  "configs": [
+    "baseline-app80",
+    "pf-common-filtered-after4585network",
+    "pf-full4585"
+  ],
+  "evaluation": "COCO greedy score-desc class+boxIoU>=0.5 one-to-one, maskIoU on matched plus TP/FP/FN/recall; PF noncommon ignored in common80 metrics. ADE union IoU tree/building/road, ignore label0. No AP or dataset-wide quality claim.",
+  "mapping_caution": "72 of80 matched with initial exact/three explicit labels;8 extra lexical aliases added before any corpus inference. Luggage/phone/houseplant semantics approximate, not proof of identical ontology.",
+  "common_filter_order": "raw4585 score rows -> max aliases per80 target -> argmax -> conf -> top300 -> class-aware NMS -> cap20 -> discard empty masks",
+  "exact_name_intersection_count": 69,
+  "mask_measurement": "bilinear prototype-logit field, threshold0 at original pixel centers; compare real GT polygons; contour marching squares mirrors application4-connected positives and boundary ring. Python timing is not Kotlin timing.",
+  "parity_tolerances": {
+    "predictions_max_abs": 0.02,
+    "prototypes_max_abs": 0.005,
+    "matched_mask_iou_min": 0.99
+  }
+}

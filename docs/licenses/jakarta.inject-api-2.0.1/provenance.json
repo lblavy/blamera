@@ -1,0 +1,13 @@
+{
+  "module": "jakarta.inject:jakarta.inject-api:2.0.1",
+  "declared_license": "Apache-2.0",
+  "jar_url": "https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar",
+  "pom_url": "https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.pom",
+  "jar_sha256": "f7dc98062fccf14126abb751b64fab12c312566e8cbdc8483598bffcea93af7c",
+  "pom_sha256": "e7fd7232e96307a575b2494c9367d68cf43ec98244aace3ccc23e1773ffa6fda",
+  "normalization_scope": "Exact module and version only; no global license policy changes",
+  "evidence": {
+    "META-INF/LICENSE.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "META-INF/NOTICE.md": "992ed62dd3ee17d73ce6a4a5e02dd0fed9eb326bf386aa5304e6a512214df540"
+  }
+}

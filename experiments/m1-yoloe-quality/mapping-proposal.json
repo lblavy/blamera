@@ -1,0 +1,2009 @@
+{
+  "status": "PROPOSED_AWAITING_INDEPENDENT_SEMANTIC_REVIEW",
+  "source": "LVIS v1 val categories and frozen PF4585 metadata; literal IDs only, no substring rules",
+  "groups": [
+    {
+      "key": "person",
+      "scope": "common",
+      "lvis_ids": [
+        793
+      ],
+      "lvis_names": [
+        "person"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 7
+    },
+    {
+      "key": "cat",
+      "scope": "common",
+      "lvis_ids": [
+        225
+      ],
+      "lvis_names": [
+        "cat"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 5
+    },
+    {
+      "key": "dog",
+      "scope": "common",
+      "lvis_ids": [
+        378,
+        163,
+        853,
+        944
+      ],
+      "lvis_names": [
+        "dog",
+        "bulldog",
+        "pug-dog",
+        "shepherd_dog"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 14
+    },
+    {
+      "key": "bottle",
+      "scope": "common",
+      "lvis_ids": [
+        133,
+        83,
+        1162,
+        1188,
+        1082
+      ],
+      "lvis_names": [
+        "bottle",
+        "beer_bottle",
+        "water_bottle",
+        "wine_bottle",
+        "thermos_bottle"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 6
+    },
+    {
+      "key": "chair",
+      "scope": "common",
+      "lvis_ids": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ],
+      "lvis_names": [
+        "chair",
+        "armchair",
+        "deck_chair",
+        "folding_chair",
+        "highchair",
+        "rocking_chair",
+        "wheelchair"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 11
+    },
+    {
+      "key": "toothbrush",
+      "scope": "common",
+      "lvis_ids": [
+        1102
+      ],
+      "lvis_names": [
+        "toothbrush"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 1
+    },
+    {
+      "key": "trash_can",
+      "scope": "new",
+      "lvis_ids": [
+        23
+      ],
+      "lvis_names": [
+        "trash_can"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 1
+    },
+    {
+      "key": "mirror",
+      "scope": "new",
+      "lvis_ids": [
+        694,
+        876
+      ],
+      "lvis_names": [
+        "mirror",
+        "rearview_mirror"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 6
+    },
+    {
+      "key": "lamp",
+      "scope": "new",
+      "lvis_ids": [
+        626,
+        1051,
+        731,
+        627,
+        1027
+      ],
+      "lvis_names": [
+        "lamp",
+        "table_lamp",
+        "oil_lamp",
+        "lamppost",
+        "streetlight"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 7
+    },
+    {
+      "key": "cabinet",
+      "scope": "new",
+      "lvis_ids": [
+        181,
+        438
+      ],
+      "lvis_names": [
+        "cabinet",
+        "file_cabinet"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 9
+    },
+    {
+      "key": "towel",
+      "scope": "new",
+      "lvis_ids": [
+        1108,
+        66,
+        372,
+        536
+      ],
+      "lvis_names": [
+        "towel",
+        "bath_towel",
+        "dishtowel",
+        "hand_towel"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 5
+    },
+    {
+      "key": "footwear",
+      "scope": "new",
+      "lvis_ids": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ],
+      "lvis_names": [
+        "shoe",
+        "sandal_(type_of_shoe)",
+        "boot",
+        "ski_boot",
+        "arctic_(type_of_shoe)"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 12
+    },
+    {
+      "key": "hat",
+      "scope": "new",
+      "lvis_ids": [
+        544,
+        141,
+        319,
+        393,
+        1036
+      ],
+      "lvis_names": [
+        "hat",
+        "bowler_hat",
+        "cowboy_hat",
+        "dress_hat",
+        "sunhat"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 10
+    },
+    {
+      "key": "soap",
+      "scope": "new",
+      "lvis_ids": [
+        979
+      ],
+      "lvis_names": [
+        "soap"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 2
+    },
+    {
+      "key": "toothpaste",
+      "scope": "new",
+      "lvis_ids": [
+        1103
+      ],
+      "lvis_names": [
+        "toothpaste"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 1
+    },
+    {
+      "key": "bathtub",
+      "scope": "new",
+      "lvis_ids": [
+        68
+      ],
+      "lvis_names": [
+        "bathtub"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 2
+    },
+    {
+      "key": "doorknob",
+      "scope": "new",
+      "lvis_ids": [
+        385
+      ],
+      "lvis_names": [
+        "doorknob"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 1
+    },
+    {
+      "key": "lightbulb",
+      "scope": "new",
+      "lvis_ids": [
+        645
+      ],
+      "lvis_names": [
+        "lightbulb"
+      ],
+      "definition": "Declared family only; finer attributes/races not certified by coarse GT",
+      "pf_literal_coverage": 0
+    }
+  ],
+  "baseline_aliases": [
+    {
+      "id": 0,
+      "name": "person",
+      "target": "person",
+      "relation": "coarse",
+      "possible_categories": [
+        793
+      ]
+    },
+    {
+      "id": 15,
+      "name": "cat",
+      "target": "cat",
+      "relation": "coarse",
+      "possible_categories": [
+        225
+      ]
+    },
+    {
+      "id": 16,
+      "name": "dog",
+      "target": "dog",
+      "relation": "coarse",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 39,
+      "name": "bottle",
+      "target": "bottle",
+      "relation": "coarse",
+      "possible_categories": [
+        133,
+        83,
+        1162,
+        1188,
+        1082
+      ]
+    },
+    {
+      "id": 56,
+      "name": "chair",
+      "target": "chair",
+      "relation": "coarse",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 79,
+      "name": "toothbrush",
+      "target": "toothbrush",
+      "relation": "coarse",
+      "possible_categories": [
+        1102
+      ]
+    }
+  ],
+  "pf_aliases": [
+    {
+      "id": 2163,
+      "name": "person",
+      "target": "person",
+      "relation": "synonym",
+      "possible_categories": [
+        793
+      ]
+    },
+    {
+      "id": 207,
+      "name": "baby",
+      "target": "person",
+      "relation": "subtype",
+      "possible_categories": [
+        793
+      ]
+    },
+    {
+      "id": 879,
+      "name": "child",
+      "target": "person",
+      "relation": "subtype",
+      "possible_categories": [
+        793
+      ]
+    },
+    {
+      "id": 550,
+      "name": "boy",
+      "target": "person",
+      "relation": "subtype",
+      "possible_categories": [
+        793
+      ]
+    },
+    {
+      "id": 1871,
+      "name": "girl",
+      "target": "person",
+      "relation": "subtype",
+      "possible_categories": [
+        793
+      ]
+    },
+    {
+      "id": 2537,
+      "name": "man",
+      "target": "person",
+      "relation": "subtype",
+      "possible_categories": [
+        793
+      ]
+    },
+    {
+      "id": 4532,
+      "name": "woman",
+      "target": "person",
+      "relation": "subtype",
+      "possible_categories": [
+        793
+      ]
+    },
+    {
+      "id": 780,
+      "name": "cat",
+      "target": "cat",
+      "relation": "synonym",
+      "possible_categories": [
+        225
+      ]
+    },
+    {
+      "id": 66,
+      "name": "American shorthair",
+      "target": "cat",
+      "relation": "subtype",
+      "possible_categories": [
+        225
+      ]
+    },
+    {
+      "id": 1511,
+      "name": "english shorthair",
+      "target": "cat",
+      "relation": "subtype",
+      "possible_categories": [
+        225
+      ]
+    },
+    {
+      "id": 3014,
+      "name": "persian cat",
+      "target": "cat",
+      "relation": "subtype",
+      "possible_categories": [
+        225
+      ]
+    },
+    {
+      "id": 3674,
+      "name": "siamese",
+      "target": "cat",
+      "relation": "subtype",
+      "possible_categories": [
+        225
+      ]
+    },
+    {
+      "id": 1363,
+      "name": "dog",
+      "target": "dog",
+      "relation": "synonym",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 619,
+      "name": "bulldog",
+      "target": "dog",
+      "relation": "synonym",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 878,
+      "name": "chihuahua",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 1781,
+      "name": "French bulldog",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 61,
+      "name": "german shepherd",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 1907,
+      "name": "golden retriever",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 2171,
+      "name": "husky",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 3160,
+      "name": "pomeranian",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 3164,
+      "name": "poodle",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 3379,
+      "name": "retriever",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 1028,
+      "name": "sheepdog",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 1971,
+      "name": "guard dog",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 3150,
+      "name": "police dog",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 3938,
+      "name": "street dog",
+      "target": "dog",
+      "relation": "subtype",
+      "possible_categories": [
+        378,
+        163,
+        853,
+        944
+      ]
+    },
+    {
+      "id": 525,
+      "name": "bottle",
+      "target": "bottle",
+      "relation": "synonym",
+      "possible_categories": [
+        133,
+        83,
+        1162,
+        1188,
+        1082
+      ]
+    },
+    {
+      "id": 208,
+      "name": "baby bottle",
+      "target": "bottle",
+      "relation": "subtype",
+      "possible_categories": [
+        133,
+        83,
+        1162,
+        1188,
+        1082
+      ]
+    },
+    {
+      "id": 389,
+      "name": "beer bottle",
+      "target": "bottle",
+      "relation": "synonym",
+      "possible_categories": [
+        133,
+        83,
+        1162,
+        1188,
+        1082
+      ]
+    },
+    {
+      "id": 1876,
+      "name": "glass bottle",
+      "target": "bottle",
+      "relation": "subtype",
+      "possible_categories": [
+        133,
+        83,
+        1162,
+        1188,
+        1082
+      ]
+    },
+    {
+      "id": 4139,
+      "name": "thermos bottle",
+      "target": "bottle",
+      "relation": "synonym",
+      "possible_categories": [
+        133,
+        83,
+        1162,
+        1188,
+        1082
+      ]
+    },
+    {
+      "id": 4511,
+      "name": "wine bottle",
+      "target": "bottle",
+      "relation": "synonym",
+      "possible_categories": [
+        133,
+        83,
+        1162,
+        1188,
+        1082
+      ]
+    },
+    {
+      "id": 821,
+      "name": "chair",
+      "target": "chair",
+      "relation": "synonym",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 132,
+      "name": "armchair",
+      "target": "chair",
+      "relation": "synonym",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 352,
+      "name": "beach chair",
+      "target": "chair",
+      "relation": "subtype",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 364,
+      "name": "bean bag chair",
+      "target": "chair",
+      "relation": "subtype",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 1060,
+      "name": "computer chair",
+      "target": "chair",
+      "relation": "subtype",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 1602,
+      "name": "feeding chair",
+      "target": "chair",
+      "relation": "subtype",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 1721,
+      "name": "folding chair",
+      "target": "chair",
+      "relation": "synonym",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 2834,
+      "name": "office chair",
+      "target": "chair",
+      "relation": "subtype",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 3423,
+      "name": "rocking chair",
+      "target": "chair",
+      "relation": "synonym",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 4041,
+      "name": "swivel chair",
+      "target": "chair",
+      "relation": "subtype",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 4473,
+      "name": "wheelchair",
+      "target": "chair",
+      "relation": "synonym",
+      "possible_categories": [
+        232,
+        19,
+        358,
+        464,
+        558,
+        889,
+        1179
+      ]
+    },
+    {
+      "id": 4190,
+      "name": "toothbrush",
+      "target": "toothbrush",
+      "relation": "synonym",
+      "possible_categories": [
+        1102
+      ]
+    },
+    {
+      "id": 4409,
+      "name": "waste container",
+      "target": "trash_can",
+      "relation": "subtype",
+      "possible_categories": [
+        23
+      ]
+    },
+    {
+      "id": 2654,
+      "name": "mirror",
+      "target": "mirror",
+      "relation": "synonym",
+      "possible_categories": [
+        694,
+        876
+      ]
+    },
+    {
+      "id": 334,
+      "name": "bathroom mirror",
+      "target": "mirror",
+      "relation": "subtype",
+      "possible_categories": [
+        694,
+        876
+      ]
+    },
+    {
+      "id": 731,
+      "name": "car mirror",
+      "target": "mirror",
+      "relation": "subtype",
+      "possible_categories": [
+        694,
+        876
+      ]
+    },
+    {
+      "id": 1133,
+      "name": "cosmetics mirror",
+      "target": "mirror",
+      "relation": "subtype",
+      "possible_categories": [
+        694,
+        876
+      ]
+    },
+    {
+      "id": 3322,
+      "name": "rearview mirror",
+      "target": "mirror",
+      "relation": "synonym",
+      "possible_categories": [
+        694,
+        876
+      ]
+    },
+    {
+      "id": 4359,
+      "name": "view mirror",
+      "target": "mirror",
+      "relation": "subtype",
+      "possible_categories": [
+        694,
+        876
+      ]
+    },
+    {
+      "id": 617,
+      "name": "lamp",
+      "target": "lamp",
+      "relation": "synonym",
+      "possible_categories": [
+        626,
+        1051,
+        731,
+        627,
+        1027
+      ]
+    },
+    {
+      "id": 1302,
+      "name": "table lamp",
+      "target": "lamp",
+      "relation": "synonym",
+      "possible_categories": [
+        626,
+        1051,
+        731,
+        627,
+        1027
+      ]
+    },
+    {
+      "id": 382,
+      "name": "bedside lamp",
+      "target": "lamp",
+      "relation": "subtype",
+      "possible_categories": [
+        626,
+        1051,
+        731,
+        627,
+        1027
+      ]
+    },
+    {
+      "id": 2842,
+      "name": "oil lamp",
+      "target": "lamp",
+      "relation": "synonym",
+      "possible_categories": [
+        626,
+        1051,
+        731,
+        627,
+        1027
+      ]
+    },
+    {
+      "id": 3547,
+      "name": "wall lamp",
+      "target": "lamp",
+      "relation": "subtype",
+      "possible_categories": [
+        626,
+        1051,
+        731,
+        627,
+        1027
+      ]
+    },
+    {
+      "id": 2359,
+      "name": "lamp post",
+      "target": "lamp",
+      "relation": "subtype",
+      "possible_categories": [
+        626,
+        1051,
+        731,
+        627,
+        1027
+      ]
+    },
+    {
+      "id": 3940,
+      "name": "street light",
+      "target": "lamp",
+      "relation": "subtype",
+      "possible_categories": [
+        626,
+        1051,
+        731,
+        627,
+        1027
+      ]
+    },
+    {
+      "id": 670,
+      "name": "cabinet",
+      "target": "cabinet",
+      "relation": "synonym",
+      "possible_categories": [
+        181,
+        438
+      ]
+    },
+    {
+      "id": 332,
+      "name": "bathroom cabinet",
+      "target": "cabinet",
+      "relation": "subtype",
+      "possible_categories": [
+        181,
+        438
+      ]
+    },
+    {
+      "id": 671,
+      "name": "cabinetry",
+      "target": "cabinet",
+      "relation": "subtype",
+      "possible_categories": [
+        181,
+        438
+      ]
+    },
+    {
+      "id": 1624,
+      "name": "file cabinet",
+      "target": "cabinet",
+      "relation": "synonym",
+      "possible_categories": [
+        181,
+        438
+      ]
+    },
+    {
+      "id": 2318,
+      "name": "kitchen cabinet",
+      "target": "cabinet",
+      "relation": "subtype",
+      "possible_categories": [
+        181,
+        438
+      ]
+    },
+    {
+      "id": 2614,
+      "name": "medicine cabinet",
+      "target": "cabinet",
+      "relation": "subtype",
+      "possible_categories": [
+        181,
+        438
+      ]
+    },
+    {
+      "id": 3678,
+      "name": "side cabinet",
+      "target": "cabinet",
+      "relation": "subtype",
+      "possible_categories": [
+        181,
+        438
+      ]
+    },
+    {
+      "id": 4294,
+      "name": "tv cabinet",
+      "target": "cabinet",
+      "relation": "subtype",
+      "possible_categories": [
+        181,
+        438
+      ]
+    },
+    {
+      "id": 4513,
+      "name": "wine cabinet",
+      "target": "cabinet",
+      "relation": "subtype",
+      "possible_categories": [
+        181,
+        438
+      ]
+    },
+    {
+      "id": 4212,
+      "name": "towel",
+      "target": "towel",
+      "relation": "synonym",
+      "possible_categories": [
+        66,
+        372,
+        536,
+        757,
+        1108
+      ],
+      "unmatched_policy": "always_unknown",
+      "scope_note": "Generic towel may include paper_towel outside textile-towel evaluated GT; unmatched remains explicitly unknown."
+    },
+    {
+      "id": 327,
+      "name": "bath towel",
+      "target": "towel",
+      "relation": "synonym",
+      "possible_categories": [
+        1108,
+        66,
+        372,
+        536
+      ]
+    },
+    {
+      "id": 355,
+      "name": "beach towel",
+      "target": "towel",
+      "relation": "subtype",
+      "possible_categories": [
+        1108,
+        66,
+        372,
+        536
+      ]
+    },
+    {
+      "id": 1560,
+      "name": "face towel",
+      "target": "towel",
+      "relation": "subtype",
+      "possible_categories": [
+        1108,
+        66,
+        372,
+        536
+      ]
+    },
+    {
+      "id": 2013,
+      "name": "hand towel",
+      "target": "towel",
+      "relation": "synonym",
+      "possible_categories": [
+        1108,
+        66,
+        372,
+        536
+      ]
+    },
+    {
+      "id": 3637,
+      "name": "shoe",
+      "target": "footwear",
+      "relation": "synonym",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 1403,
+      "name": "dress shoe",
+      "target": "footwear",
+      "relation": "subtype",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 2407,
+      "name": "leather shoe",
+      "target": "footwear",
+      "relation": "subtype",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 3467,
+      "name": "running shoe",
+      "target": "footwear",
+      "relation": "subtype",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 3717,
+      "name": "skiing shoes",
+      "target": "footwear",
+      "relation": "subtype",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 3764,
+      "name": "snowshoe",
+      "target": "footwear",
+      "relation": "subtype",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 521,
+      "name": "boot",
+      "target": "footwear",
+      "relation": "synonym",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 1163,
+      "name": "cowboy boot",
+      "target": "footwear",
+      "relation": "subtype",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 2087,
+      "name": "hiking boot",
+      "target": "footwear",
+      "relation": "subtype",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 3295,
+      "name": "rain boot",
+      "target": "footwear",
+      "relation": "subtype",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 3709,
+      "name": "ski boot",
+      "target": "footwear",
+      "relation": "synonym",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 3506,
+      "name": "sandal",
+      "target": "footwear",
+      "relation": "subtype",
+      "possible_categories": [
+        948,
+        911,
+        132,
+        965,
+        17
+      ]
+    },
+    {
+      "id": 2044,
+      "name": "hat",
+      "target": "hat",
+      "relation": "synonym",
+      "possible_categories": [
+        544,
+        141,
+        319,
+        393,
+        1036
+      ]
+    },
+    {
+      "id": 298,
+      "name": "baseball hat",
+      "target": "hat",
+      "relation": "subtype",
+      "possible_categories": [
+        544,
+        141,
+        319,
+        393,
+        1036
+      ]
+    },
+    {
+      "id": 913,
+      "name": "christmas hat",
+      "target": "hat",
+      "relation": "subtype",
+      "possible_categories": [
+        544,
+        141,
+        319,
+        393,
+        1036
+      ]
+    },
+    {
+      "id": 1164,
+      "name": "cowboy hat",
+      "target": "hat",
+      "relation": "synonym",
+      "possible_categories": [
+        544,
+        141,
+        319,
+        393,
+        1036
+      ]
+    },
+    {
+      "id": 1401,
+      "name": "dress hat",
+      "target": "hat",
+      "relation": "synonym",
+      "possible_categories": [
+        544,
+        141,
+        319,
+        393,
+        1036
+      ]
+    },
+    {
+      "id": 2950,
+      "name": "party hat",
+      "target": "hat",
+      "relation": "subtype",
+      "possible_categories": [
+        544,
+        141,
+        319,
+        393,
+        1036
+      ]
+    },
+    {
+      "id": 3128,
+      "name": "plug hat",
+      "target": "hat",
+      "relation": "subtype",
+      "possible_categories": [
+        544,
+        141,
+        319,
+        393,
+        1036
+      ]
+    },
+    {
+      "id": 3932,
+      "name": "straw hat",
+      "target": "hat",
+      "relation": "subtype",
+      "possible_categories": [
+        544,
+        141,
+        319,
+        393,
+        1036
+      ]
+    },
+    {
+      "id": 3987,
+      "name": "sun hat",
+      "target": "hat",
+      "relation": "subtype",
+      "possible_categories": [
+        544,
+        141,
+        319,
+        393,
+        1036
+      ]
+    },
+    {
+      "id": 4529,
+      "name": "witch hat",
+      "target": "hat",
+      "relation": "subtype",
+      "possible_categories": [
+        544,
+        141,
+        319,
+        393,
+        1036
+      ]
+    },
+    {
+      "id": 3766,
+      "name": "soap",
+      "target": "soap",
+      "relation": "synonym",
+      "possible_categories": [
+        979
+      ]
+    },
+    {
+      "id": 1347,
+      "name": "dishsoap",
+      "target": "soap",
+      "relation": "subtype",
+      "possible_categories": [
+        979
+      ]
+    },
+    {
+      "id": 4191,
+      "name": "toothpaste",
+      "target": "toothpaste",
+      "relation": "synonym",
+      "possible_categories": [
+        1103
+      ]
+    },
+    {
+      "id": 4278,
+      "name": "tub",
+      "target": "bathtub",
+      "relation": "subtype",
+      "possible_categories": [
+        68
+      ]
+    },
+    {
+      "id": 324,
+      "name": "bath",
+      "target": "bathtub",
+      "relation": "subtype",
+      "possible_categories": [
+        68
+      ]
+    },
+    {
+      "id": 1381,
+      "name": "door handle",
+      "target": "doorknob",
+      "relation": "subtype",
+      "possible_categories": [
+        385
+      ]
+    },
+    {
+      "id": 1603,
+      "name": "feline",
+      "target": "cat",
+      "relation": "coarse",
+      "possible_categories": [
+        225,
+        316,
+        649,
+        1088
+      ],
+      "unmatched_policy": "always_unknown",
+      "scope_note": "Coarse feline includes wild felines outside domestic-cat GT; unmatched is explicitly unknown even if a wild positive is verified."
+    }
+  ],
+  "ade_pf_aliases": [
+    {
+      "id": 4253,
+      "name": "tree",
+      "target": "tree",
+      "relation": "synonym"
+    },
+    {
+      "id": 104,
+      "name": "apple tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 195,
+      "name": "autumn tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 254,
+      "name": "banana tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 271,
+      "name": "banyan tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 384,
+      "name": "beech tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 436,
+      "name": "birch tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 868,
+      "name": "cherry tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 917,
+      "name": "christmas tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 1009,
+      "name": "coconut tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 1246,
+      "name": "cypress tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 1530,
+      "name": "eucalyptus tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 1637,
+      "name": "fir tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 1802,
+      "name": "fruit tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 1869,
+      "name": "ginkgo tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 2819,
+      "name": "oak tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 2849,
+      "name": "olive tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 2866,
+      "name": "orange tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 2908,
+      "name": "palm tree",
+      "target": "tree",
+      "relation": "subtype"
+    },
+    {
+      "id": 613,
+      "name": "building",
+      "target": "building",
+      "relation": "synonym"
+    },
+    {
+      "id": 570,
+      "name": "brick building",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 615,
+      "name": "building facade",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 1879,
+      "name": "glass building",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 2833,
+      "name": "office building",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 3398,
+      "name": "rise building",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 3905,
+      "name": "stone building",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 2155,
+      "name": "house",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 2156,
+      "name": "house exterior",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 353,
+      "name": "beach house",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 493,
+      "name": "boat house",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 1146,
+      "name": "country house",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 1156,
+      "name": "courthouse",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 1579,
+      "name": "farmhouse",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 1972,
+      "name": "guest house",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 2355,
+      "name": "lake house",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 2555,
+      "name": "manor house",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 2822,
+      "name": "oast house",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 2858,
+      "name": "opera house",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 2882,
+      "name": "outhouse",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 3540,
+      "name": "schoolhouse",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 3907,
+      "name": "stone house",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 4397,
+      "name": "warehouse",
+      "target": "building",
+      "relation": "subtype"
+    },
+    {
+      "id": 3093,
+      "name": "plant",
+      "target": "plant",
+      "relation": "synonym"
+    },
+    {
+      "id": 2157,
+      "name": "houseplant",
+      "target": "plant",
+      "relation": "subtype"
+    },
+    {
+      "id": 3078,
+      "name": "pitcher plant",
+      "target": "plant",
+      "relation": "subtype"
+    },
+    {
+      "id": 4,
+      "name": "monastery",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 203,
+      "name": "shed",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 287,
+      "name": "barn",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 354,
+      "name": "beach hut",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 779,
+      "name": "castle",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 792,
+      "name": "cathedral",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 919,
+      "name": "church",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 1138,
+      "name": "cottage",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 1826,
+      "name": "garage",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 2172,
+      "name": "hut",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 2695,
+      "name": "mosque",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 2899,
+      "name": "pagoda",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 2904,
+      "name": "palace",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 2941,
+      "name": "parking garage",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 3205,
+      "name": "Prague Castle",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 3725,
+      "name": "skyscraper",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 4110,
+      "name": "temple",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 155,
+      "name": "asia temple",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 2093,
+      "name": "hindu temple",
+      "target": "building",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 3056,
+      "name": "pine",
+      "target": "tree",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    },
+    {
+      "id": 4495,
+      "name": "willow",
+      "target": "tree",
+      "relation": "subtype",
+      "scope_note": "Only coarse semantic family scored; precise place/species not certified by GT."
+    }
+  ],
+  "ade_baseline_aliases": [
+    {
+      "id": 58,
+      "name": "potted plant",
+      "target": "plant",
+      "relation": "subtype"
+    }
+  ],
+  "unsupported_new_target": [
+    "lightbulb: no literal PF label found; keep target, do not silently remove it or substitute lamp"
+  ],
+  "excluded_ambiguous_labels": {
+    "shepherd": "human occupation or dog; not resolved automatically",
+    "cat bed": "object for cat, not animal",
+    "lamp shade": "part, not lamp",
+    "garbage": "contents, not waste container",
+    "soap dispenser": "container, not soap",
+    "tree house": "building, not tree",
+    "shoe tree": "shoe accessory, not tree",
+    "building block": "toy/material, not building",
+    "plantation": "land use, not a plant instance",
+    "pine cone/pine nut/pineapple": "not the tree species pine",
+    "Eiffel Tower/open metal structure": "not assigned to building without a clear ADE correspondence"
+  },
+  "review_notes": [
+    "All coarse/unmatched aliases require complete possible_categories verification; one positive does not close a family",
+    "Subclass acceptance establishes coarse family recognition only, not breed/material/role identity",
+    "All groups and aliases proposed before predictions; reviewer may revise once, then hash freeze; no result-driven remapping",
+    "Aliases whose verification scope exceeds evaluated GT use unmatched_policy=always_unknown; publish outside_target_scope counts separately."
+  ],
+  "ade_category_groups": {
+    "building": [
+      2,
+      26
+    ],
+    "tree": [
+      5
+    ],
+    "plant": [
+      18
+    ]
+  }
+}

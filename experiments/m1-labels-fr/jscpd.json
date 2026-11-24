@@ -1,0 +1,10 @@
+{
+  "format": ["python"],
+  "ignore": ["**/test_*.py"],
+  "minLines": 5,
+  "minTokens": 50,
+  "reporters": ["json", "console"],
+  "output": "build/reports/validation/m1-photo-refinements/labels-fr/duplication",
+  "absolute": true,
+  "gitignore": false
+}

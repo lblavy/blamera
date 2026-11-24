@@ -1,0 +1,359 @@
+{
+  "models": {
+    "baseline": {
+      "raw": {
+        "file": "models/m1-01/yolo11n-seg/yolo11n-seg.onnx",
+        "sha256": "38325721a41fcd732b0a30512ffa8d564b1a8a74ca8c1d6b7e7f37609b2d321b",
+        "size": 11720021
+      },
+      "checkpoint": null,
+      "classes": 80,
+      "agnostic": false
+    },
+    "small": {
+      "raw": {
+        "file": "models/m1-yoloe-small/yoloe-26s-seg-pf.onnx",
+        "sha256": "a545b3e6933a3d94870f5c91d210c5eb2842f56c5221bad93f15db9f72a5c81f",
+        "size": 48903716
+      },
+      "checkpoint": {
+        "file": "models/m1-yoloe-small/yoloe-26s-seg-pf.pt",
+        "sha256": "01605da3f2e0e5325df45d5f5eef8e40b5b5c7d085399be3c33ac638258b150a",
+        "size": 40003064
+      },
+      "classes": 4585,
+      "agnostic": true
+    },
+    "large": {
+      "raw": {
+        "file": "models/m1-yoloe-capacity/l/yoloe-26l-seg-pf.onnx",
+        "sha256": "b3db19c7f11550fb76b5607d81234f6275126568cee71f3b8c3291e054b4e2de",
+        "size": 126147362
+      },
+      "checkpoint": {
+        "file": "models/m1-yoloe-capacity/l/yoloe-26l-seg-pf.pt",
+        "sha256": "8b0ff5ecfd5baa0ebed509efb00aacff52faae2f6770e7ffa2a223231b9653c0",
+        "size": 94606901
+      },
+      "classes": 4585,
+      "agnostic": true
+    },
+    "xlarge": {
+      "raw": {
+        "file": "models/m1-yoloe-capacity/x/yoloe-26x-seg-pf.onnx",
+        "sha256": "7d98a8398f43fb291bd576f1f78a607a4ed16d7329ca99248f78decfd1cd3414",
+        "size": 272481865
+      },
+      "checkpoint": {
+        "file": "models/m1-yoloe-capacity/x/yoloe-26x-seg-pf.pt",
+        "sha256": "6591e328fc0012a00beba95710d159c26b0e2dd728ee04b0c8eca1fa0ff859f2",
+        "size": 193087541
+      },
+      "classes": 4585,
+      "agnostic": true
+    }
+  },
+  "baselineCompact": {
+    "file": "models/m1-yoloe/deployment/baseline/yolo11n-seg.onnx",
+    "sha256": "5e11ab61781495f96661a0409a3a868fd0bfe213f04f3e83e1b61fe4d0bfcc92",
+    "size": 11746701
+  },
+  "fixtures": {
+    "nasa": {
+      "file": "models/m1-yoloe/benchmark-fixtures/astronaut.png",
+      "sha256": "88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5",
+      "size": 791555
+    },
+    "synthetic": {
+      "file": "models/m1-yoloe/benchmark-fixtures/synthetic.png",
+      "sha256": "c98056be2497324d795c3b0397b14d68ef8c33dd1ee4ef35d3f1ca33d8c17ee0",
+      "size": 31587
+    }
+  },
+  "images": [
+    {
+      "id": "lvis_62692",
+      "key": "lvis:62692",
+      "dataset": "lvis",
+      "stratum": "control",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/lvis/62692.jpg",
+      "source_url": "http://images.cocodataset.org/val2017/000000062692.jpg",
+      "fetch_url": "https://s3.amazonaws.com/images.cocodataset.org/val2017/000000062692.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5110/5557618880_5e8425d05d_z.jpg",
+      "licence": {
+        "id": 2,
+        "name": "Attribution-NonCommercial License",
+        "url": "http://creativecommons.org/licenses/by-nc/2.0/"
+      },
+      "mime": "image/jpeg",
+      "cached": false,
+      "sha256": "054cad4e215e4d79712d6f04c4f56e5f7b859b8ae3f873a1c060dbb4f6d1f3d0",
+      "bytes": 165988,
+      "width": 427,
+      "height": 640,
+      "dhash64": "0e0e060e1a1f376e",
+      "originalId": 62692
+    },
+    {
+      "id": "lvis_319617",
+      "key": "lvis:319617",
+      "dataset": "lvis",
+      "stratum": "control",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/lvis/319617.jpg",
+      "source_url": "http://images.cocodataset.org/val2017/000000319617.jpg",
+      "fetch_url": "https://s3.amazonaws.com/images.cocodataset.org/val2017/000000319617.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/40/79665940_3a62f3e9f1_z.jpg",
+      "licence": {
+        "id": 1,
+        "name": "Attribution-NonCommercial-ShareAlike License",
+        "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+      },
+      "mime": "image/jpeg",
+      "cached": false,
+      "sha256": "41e260243d74b902bd34a799086d8d0a762ae08a9f64a4c99287ece339d21e7a",
+      "bytes": 36198,
+      "width": 320,
+      "height": 240,
+      "dhash64": "0111189c1e0e8787",
+      "originalId": 319617
+    },
+    {
+      "id": "lvis_22892",
+      "key": "lvis:22892",
+      "dataset": "lvis",
+      "stratum": "targeted",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/lvis/22892.jpg",
+      "source_url": "http://images.cocodataset.org/val2017/000000022892.jpg",
+      "fetch_url": "https://s3.amazonaws.com/images.cocodataset.org/val2017/000000022892.jpg",
+      "flickr_url": "http://farm1.staticflickr.com/243/521936273_d0817d38a4_z.jpg",
+      "licence": {
+        "id": 1,
+        "name": "Attribution-NonCommercial-ShareAlike License",
+        "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+      },
+      "mime": "image/jpeg",
+      "cached": false,
+      "sha256": "feafcf6539422208c296d7e15151a9bb0a19fb14db57d93a3ebf733a21fb7843",
+      "bytes": 117754,
+      "width": 500,
+      "height": 334,
+      "dhash64": "b96e6ecfc9ddb5bd",
+      "originalId": 22892
+    },
+    {
+      "id": "lvis_371699",
+      "key": "lvis:371699",
+      "dataset": "lvis",
+      "stratum": "targeted",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/lvis/371699.jpg",
+      "source_url": "http://images.cocodataset.org/val2017/000000371699.jpg",
+      "fetch_url": "https://s3.amazonaws.com/images.cocodataset.org/val2017/000000371699.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4014/5081723469_97a47d0849_z.jpg",
+      "licence": {
+        "id": 1,
+        "name": "Attribution-NonCommercial-ShareAlike License",
+        "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+      },
+      "mime": "image/jpeg",
+      "cached": false,
+      "sha256": "1a36e9a72627f18a2b2fee51cbd757a8a73c62876895b5852fd870cd3799e3ea",
+      "bytes": 240350,
+      "width": 480,
+      "height": 640,
+      "dhash64": "3c0e0e38301c1042",
+      "originalId": 371699
+    },
+    {
+      "id": "lvis_372349",
+      "key": "lvis:372349",
+      "dataset": "lvis",
+      "stratum": "targeted",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/lvis/372349.jpg",
+      "source_url": "http://images.cocodataset.org/val2017/000000372349.jpg",
+      "fetch_url": "https://s3.amazonaws.com/images.cocodataset.org/val2017/000000372349.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4039/4586077832_ca6b7b9f37_z.jpg",
+      "licence": {
+        "id": 1,
+        "name": "Attribution-NonCommercial-ShareAlike License",
+        "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+      },
+      "mime": "image/jpeg",
+      "cached": false,
+      "sha256": "6cd13926fda8d3c757d6594a6aeb6d0d35d03b112d3c429779af8cec8d43fb3e",
+      "bytes": 131262,
+      "width": 640,
+      "height": 437,
+      "dhash64": "040c0c1404703000",
+      "originalId": 372349
+    },
+    {
+      "id": "lvis_492878",
+      "key": "lvis:492878",
+      "dataset": "lvis",
+      "stratum": "targeted",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/lvis/492878.jpg",
+      "source_url": "http://images.cocodataset.org/val2017/000000492878.jpg",
+      "fetch_url": "https://s3.amazonaws.com/images.cocodataset.org/val2017/000000492878.jpg",
+      "flickr_url": "http://farm5.staticflickr.com/4074/4853968972_dfb8b372ed_z.jpg",
+      "licence": {
+        "id": 1,
+        "name": "Attribution-NonCommercial-ShareAlike License",
+        "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+      },
+      "mime": "image/jpeg",
+      "cached": false,
+      "sha256": "cd77b71fa218eea179e9a94733b0b6c353617952198f20fdd63ab47b88ba7792",
+      "bytes": 271783,
+      "width": 640,
+      "height": 640,
+      "dhash64": "8e8e8f8b092f0f0f",
+      "originalId": 492878
+    },
+    {
+      "id": "lvis_394328",
+      "key": "lvis:394328",
+      "dataset": "lvis",
+      "stratum": "targeted",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/lvis/394328.jpg",
+      "source_url": "http://images.cocodataset.org/val2017/000000394328.jpg",
+      "fetch_url": "https://s3.amazonaws.com/images.cocodataset.org/val2017/000000394328.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7148/6547735213_8871a3301a_z.jpg",
+      "licence": {
+        "id": 1,
+        "name": "Attribution-NonCommercial-ShareAlike License",
+        "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+      },
+      "mime": "image/jpeg",
+      "cached": false,
+      "sha256": "5fb139470cf54f298c76c4526e4933ca626ee10a2ac6a43e39c38157d63857d5",
+      "bytes": 136235,
+      "width": 480,
+      "height": 640,
+      "dhash64": "0f0f9b8e8ecc8ece",
+      "originalId": 394328
+    },
+    {
+      "id": "lvis_570736",
+      "key": "lvis:570736",
+      "dataset": "lvis",
+      "stratum": "targeted",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/lvis/570736.jpg",
+      "source_url": "http://images.cocodataset.org/val2017/000000570736.jpg",
+      "fetch_url": "https://s3.amazonaws.com/images.cocodataset.org/val2017/000000570736.jpg",
+      "flickr_url": "http://farm4.staticflickr.com/3489/4047340119_4b5549e707_z.jpg",
+      "licence": {
+        "id": 4,
+        "name": "Attribution License",
+        "url": "http://creativecommons.org/licenses/by/2.0/"
+      },
+      "mime": "image/jpeg",
+      "cached": false,
+      "sha256": "735d751a5d15a8d05b7a74ba4fef7ac4afe1c8167e09d5f5c6236f2c921edc2a",
+      "bytes": 75401,
+      "width": 427,
+      "height": 640,
+      "dhash64": "4f6b7b3b3f5c5e1f",
+      "originalId": 570736
+    },
+    {
+      "id": "ade_00000498",
+      "key": "ade:ADE_val_00000498",
+      "dataset": "ade",
+      "stratum": "ade_semantic",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/ade/ADE_val_00000498.jpg",
+      "zip_member": "ADEChallengeData2016/images/validation/ADE_val_00000498.jpg",
+      "licence": "ADE local noncommercial research; photos never redistributed",
+      "sha256": "2b09cc67cd45296cc316feea1fc2627eaa7e98fc36c774e7d66ab0f531ee32bb",
+      "bytes": 50942,
+      "width": 512,
+      "height": 683,
+      "dhash64": "1091b1b120307a68",
+      "originalId": "ADE_val_00000498"
+    },
+    {
+      "id": "ade_00001828",
+      "key": "ade:ADE_val_00001828",
+      "dataset": "ade",
+      "stratum": "ade_semantic",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/ade/ADE_val_00001828.jpg",
+      "zip_member": "ADEChallengeData2016/images/validation/ADE_val_00001828.jpg",
+      "licence": "ADE local noncommercial research; photos never redistributed",
+      "sha256": "7b02d1ae7c74af725b1df7a74977e681f4824ab12205c4cac4f52beca85108c6",
+      "bytes": 53385,
+      "width": 683,
+      "height": 512,
+      "dhash64": "4008080131131f1b",
+      "originalId": "ADE_val_00001828"
+    },
+    {
+      "id": "ade_00000583",
+      "key": "ade:ADE_val_00000583",
+      "dataset": "ade",
+      "stratum": "ade_semantic",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/ade/ADE_val_00000583.jpg",
+      "zip_member": "ADEChallengeData2016/images/validation/ADE_val_00000583.jpg",
+      "licence": "ADE local noncommercial research; photos never redistributed",
+      "sha256": "52a96e2ae20258225a19d0d049fa71118f23586e643f69f9a1cf39b70173bc2f",
+      "bytes": 62219,
+      "width": 512,
+      "height": 683,
+      "dhash64": "0042431f2c242404",
+      "originalId": "ADE_val_00000583"
+    },
+    {
+      "id": "ade_00001565",
+      "key": "ade:ADE_val_00001565",
+      "dataset": "ade",
+      "stratum": "ade_semantic",
+      "path": "build/reports/validation/m1-yoloe-quality/inputs/ade/ADE_val_00001565.jpg",
+      "zip_member": "ADEChallengeData2016/images/validation/ADE_val_00001565.jpg",
+      "licence": "ADE local noncommercial research; photos never redistributed",
+      "sha256": "64239b8f68aae6d0f435731346361e83ea7e226793b82a0c11e368b7bfc54ebc",
+      "bytes": 45856,
+      "width": 683,
+      "height": 512,
+      "dhash64": "0f0f4757470f8e8e",
+      "originalId": "ADE_val_00001565"
+    }
+  ],
+  "manifest": {
+    "file": "build/reports/validation/m1-yoloe-quality/inputs-manifest.json",
+    "sha256": "faa145fbe98b97bf55cbbd3ebfdc46bb2ae49b352ff6774f7d2d97a1110a08b8",
+    "size": 121958
+  },
+  "license": {
+    "file": "models/m1-yoloe-capacity/LICENSE-assets-AGPL.txt",
+    "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+    "size": 34523
+  },
+  "parameters": {
+    "format": "onnx",
+    "imgsz": 640,
+    "batch": 1,
+    "device": "cpu",
+    "half": false,
+    "dynamic": false,
+    "simplify": false,
+    "opset": 17,
+    "nms": true,
+    "end2end": false,
+    "conf": 0.35,
+    "iou": 0.5,
+    "max_det": 20,
+    "verbose": false
+  },
+  "tolerances": {
+    "networkBoxMaxAbs": 0.05,
+    "scoreMaxAbs": 0.0001,
+    "prototypeMaxAbs": 0.005,
+    "maskIoUMin": 0.99
+  },
+  "versions": {
+    "ultralytics": "8.4.190",
+    "torch": "2.14.1+cpu",
+    "onnx": "1.23.2",
+    "onnxruntime": "1.31.0",
+    "numpy": "2.5.4",
+    "opencv-python": "5.0.0.93"
+  }
+}

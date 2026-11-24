@@ -1,0 +1,76 @@
+{
+  "status": "PREPARATION_ONLY_PENDING_REVIEW_NO_144_PREDICTIONS",
+  "date_local": "2026-10-28",
+  "model": "YOLOE-26s-seg-pf",
+  "checkpoint": {
+    "path": "models/m1-yoloe-small/yoloe-26s-seg-pf.pt",
+    "sha256": "01605da3f2e0e5325df45d5f5eef8e40b5b5c7d085399be3c33ac638258b150a",
+    "bytes": 40003064
+  },
+  "onnx": {
+    "path": "models/m1-yoloe-small/yoloe-26s-seg-pf.onnx",
+    "sha256": "a545b3e6933a3d94870f5c91d210c5eb2842f56c5221bad93f15db9f72a5c81f",
+    "bytes": 48903716
+  },
+  "licence": {
+    "path": "models/m1-yoloe-small/LICENSE-assets-AGPL.txt",
+    "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+    "source": "https://raw.githubusercontent.com/ultralytics/assets/v8.4.0/LICENSE",
+    "scope": "Same private local evaluation as Nano; AGPL3 artifact, no Apple encoder/download, no distribution or purchase"
+  },
+  "inherited": {
+    "quality_seal_sha256": "6ff9b6b463dde7b28e7f065438aa7a6162437b4ccf16d9d226ee38fa4543dcb2",
+    "protocol_sha256": "8f1b40970a6fa8e73910da30fa711d838c55533f99a2cdeef4151d0f83e5613f",
+    "mapping_sha256": "7701f2609e1dd2d8836fe310772b5542ec02f74837b5b4fbb27f89f20ef7f82e",
+    "selection_sha256": "15d3afbb6b597625fbbb6604b7ca93a81f0921a36d0afdc2ebde6b6bb5061feb",
+    "inputs_manifest_sha256": "faa145fbe98b97bf55cbbd3ebfdc46bb2ae49b352ff6774f7d2d97a1110a08b8"
+  },
+  "reference_results": {
+    "summary_sha256": "e916aaed48aba594e8d6080ef5c882fdc92cbaa64236b892e7999132281bfec5",
+    "per_image_sha256": "d77d6ed857ab60085cffc07a47dcba095fa202e0dbcd81e352810f0b10ffb3c2",
+    "rerun": false
+  },
+  "same_images": 144,
+  "new_forwards": 144,
+  "profiles": 12,
+  "expected_records": 1728,
+  "modes": [
+    "agnostic",
+    "aware"
+  ],
+  "confidence": [
+    0.2,
+    0.35,
+    0.5
+  ],
+  "mask_confidence": 0.35,
+  "caps": [
+    20,
+    100
+  ],
+  "pre_cap": 300,
+  "quality_first": true,
+  "new_mapping": false,
+  "export_proof": {
+    "path": "build/reports/validation/m1-yoloe-small/export-parity.json",
+    "sha256": "14c6a1747c3615bc5d4bf5876832beae79427e5727effa53d7f973025f387406"
+  },
+  "export_parameters": {
+    "format": "onnx",
+    "imgsz": 640,
+    "batch": 1,
+    "device": "cpu",
+    "half": false,
+    "dynamic": false,
+    "simplify": false,
+    "opset": 17,
+    "nms": false,
+    "end2end": false,
+    "verbose": false
+  },
+  "parity_fixtures": [
+    "nasa-astronaut",
+    "synthetic-negative"
+  ],
+  "reference_pairing": "Small agnostic vs Nano agnostic, Small aware vs Nano aware; both vs baseline aware. Typed common/new and new class-agnostic sameGT masks; allGT/FN0 and image strata inherited unchanged."
+}

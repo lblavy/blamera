@@ -1,0 +1,49 @@
+[project]
+name = "blamera-pc"
+version = "0.7.0"
+requires-python = "==3.12.*"
+dependencies = ["streamlit==1.66.1", "pillow==13.0.0", "numpy==2.5.4", "opencv-python-headless==4.13.0.92"]
+
+[dependency-groups]
+dev = [
+    "coverage==7.10.7",
+    "ruff==0.17.2",
+    "mypy==2.4.0",
+    "complexipy==8.2.0",
+    "pip==26.2.2",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "C901"]
+
+[tool.ruff.lint.mccabe]
+max-complexity = 10
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+files = ["src"]
+mypy_path = "$MYPY_CONFIG_FILE_DIR/src"
+explicit_package_bases = true
+cache_dir = "$MYPY_CONFIG_FILE_DIR/../.tools/mypy-cache"
+
+[tool.coverage.run]
+branch = true
+source = ["src"]
+data_file = "../build/reports/quality/pc/.coverage"
+
+[tool.coverage.json]
+output = "../build/reports/quality/pc/coverage.json"
+
+[tool.coverage.xml]
+output = "../build/reports/quality/pc/coverage.xml"
+
+[tool.coverage.html]
+directory = "../build/reports/quality/pc/html"

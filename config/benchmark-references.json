@@ -1,0 +1,7 @@
+{
+  "index.file": "build/reports/validation/m1-yoloe-phone-assets/kotlin-complete.json",
+  "index.sha256": "54f07f7252b0cf047cf500d672b332ae3e4c495483517ef1df2c61859b983287",
+  "catalog.file": "models/m1-yoloe-phone-assets/catalog-kotlin.properties",
+  "catalog.sha256": "9155484ccaa0f319b5fc81bf4a3431bf14cd055c600faabec6552f5f5b13ebaf",
+  "reference.root": "models/m1-yoloe-phone-assets/kotlin-references"
+}

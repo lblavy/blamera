@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blamera</string>
+    <string name="home_description">Explorez ce qui vous entoure.</string>
+    <string name="source_heading">Choisissez une source</string>
+    <string name="source_camera">Caméra</string>
+    <string name="source_image">Image</string>
+    <string name="source_not_selected">Aucune source sélectionnée</string>
+    <string name="source_selected">Source sélectionnée : %1$s</string>
+    <string name="vision_coming_soon">Analyse locale des images et de la caméra, sur demande. Identités à venir.</string>
+    <string name="choose_image">Choisir une image</string>
+    <string name="replace_image">Remplacer l’image</string>
+    <string name="import_scope">Aperçu réduit et analyse locale sur demande. Les catégories peuvent être inexactes.</string>
+    <string name="image_loading">Chargement de l’image…</string>
+    <string name="image_preview">Aperçu de l’image importée</string>
+    <string name="image_dimensions">Dimensions : %1$d × %2$d px</string>
+    <string name="preview_dimensions">Aperçu : %1$d × %2$d px</string>
+    <string name="image_too_large">Image trop grande : 30 Mio ou 100 mégapixels maximum.</string>
+    <string name="image_unsupported">Format non pris en charge. Choisissez JPEG, PNG, WebP ou HEIF.</string>
+    <string name="image_unreadable">Image illisible ou accès indisponible. Choisissez une autre image.</string>
+    <string name="image_memory">Mémoire insuffisante. Choisissez une image plus petite.</string>
+</resources>

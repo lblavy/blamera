@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-28",
+  "scope": "Isolated French catalogue preparation environment and read-only shared torch package; no Android dependencies",
+  "packagesScanned": 25,
+  "activeAdvisoryRecords": 11,
+  "uniqueIssues": 6,
+  "pipRemediation": "Only private .tools/m1-labels-fr/.venv updated from pip25.0.1 to pip26.2.2; removed 12 initial advisory records including aliases. No modification to earlier ML venv.",
+  "findings": [
+    {
+      "id": "GHSA-29pf-2h5f-8g72",
+      "aliases": [
+        "CVE-2026-4372",
+        "PYSEC-2026-2289"
+      ],
+      "package": {
+        "ecosystem": "PyPI",
+        "name": "transformers",
+        "version": "4.57.6"
+      },
+      "severity": "HIGH",
+      "relatedAdvisory": "GHSA-29pf-2h5f-8g72",
+      "status": "not_exercised_in_this_bounded_preparation_path",
+      "reason": "Advisory describes attacker config selecting remote attention kernels through AutoModelForCausalLM. This job uses explicit MarianMTModel with eager attention, hash-verified pinned config/model files, offline mode and local_files_only; no attacker model repository is accepted."
+    },
+    {
+      "id": "GHSA-69w3-r845-3855",
+      "aliases": [
+        "CVE-2026-1839",
+        "PYSEC-2026-2288"
+      ],
+      "package": {
+        "ecosystem": "PyPI",
+        "name": "transformers",
+        "version": "4.57.6"
+      },
+      "severity": "MODERATE",
+      "relatedAdvisory": "GHSA-69w3-r845-3855",
+      "status": "not_exercised_in_this_bounded_preparation_path",
+      "reason": "Advisory concerns Trainer._load_rng_state and torch below 2.6. This job has torch2.14.1+cpu, never constructs Trainer, never reads rng_state.pth and loads selected model weights only from safetensors."
+    },
+    {
+      "id": "GHSA-fgcw-684q-jj6r",
+      "aliases": [
+        "CVE-2026-5241",
+        "PYSEC-2026-2290"
+      ],
+      "package": {
+        "ecosystem": "PyPI",
+        "name": "transformers",
+        "version": "4.57.6"
+      },
+      "severity": "HIGH",
+      "relatedAdvisory": "GHSA-fgcw-684q-jj6r",
+      "status": "not_exercised_in_this_bounded_preparation_path",
+      "reason": "Advisory concerns LightGlue nested AutoConfig/AutoModel trust handling. This job constructs MarianMTModel/MarianTokenizer explicitly, never LightGlue/AutoModel, with trust_remote_code=False and hash-verified files."
+    },
+    {
+      "id": "GHSA-x9r9-c232-4q39",
+      "aliases": [
+        "CVE-2026-80047",
+        "PYSEC-2026-4174"
+      ],
+      "package": {
+        "ecosystem": "PyPI",
+        "name": "transformers",
+        "version": "4.57.6"
+      },
+      "severity": "HIGH",
+      "relatedAdvisory": "GHSA-x9r9-c232-4q39",
+      "status": "not_exercised_in_this_bounded_preparation_path",
+      "reason": "Advisory concerns remote custom generation download before consent. This job never calls load_custom_generate, pins generation_config.json without custom_generate, uses local_files_only and offline environment flags; no custom Python files are loaded."
+    },
+    {
+      "id": "GHSA-xrqw-3rrv-vx5w",
+      "aliases": [
+        "CVE-2026-9856",
+        "PYSEC-2026-3929"
+      ],
+      "package": {
+        "ecosystem": "PyPI",
+        "name": "transformers",
+        "version": "4.57.6"
+      },
+      "severity": "HIGH",
+      "relatedAdvisory": "GHSA-xrqw-3rrv-vx5w",
+      "status": "not_exercised_in_this_bounded_preparation_path",
+      "reason": "Advisory concerns tokenizer/processor save_pretrained path traversal through chat_template keys. This job never calls save_pretrained, uses MarianTokenizer with a hash-verified tokenizer config, and has no chat_template/processor pipeline."
+    },
+    {
+      "id": "PYSEC-2025-217",
+      "aliases": [
+        "CVE-2025-14929"
+      ],
+      "package": {
+        "ecosystem": "PyPI",
+        "name": "transformers",
+        "version": "4.57.6"
+      },
+      "severity": "UNKNOWN",
+      "relatedAdvisory": "PYSEC-2025-217",
+      "status": "not_exercised_in_this_bounded_preparation_path",
+      "reason": "CVE-2025-14929 concerns X-CLIP checkpoint conversion and deserialization of attacker-provided conversion checkpoints. This preparation does not import or run X-CLIP conversion scripts; the selected Big Marian model is loaded only from the SHA-verified safetensors file. Earlier rejected small trial used a pinned public Marian checkpoint, not X-CLIP conversion."
+    },
+    {
+      "id": "PYSEC-2026-2288",
+      "aliases": [
+        "CVE-2026-1839",
+        "GHSA-69w3-r845-3855"
+      ],
+      "package": {
+        "ecosystem": "PyPI",
+        "name": "transformers",
+        "version": "4.57.6"
+      },
+      "severity": "UNKNOWN",
+      "relatedAdvisory": "GHSA-69w3-r845-3855",
+      "status": "not_exercised_in_this_bounded_preparation_path",
+      "reason": "Advisory concerns Trainer._load_rng_state and torch below 2.6. This job has torch2.14.1+cpu, never constructs Trainer, never reads rng_state.pth and loads selected model weights only from safetensors."
+    },
+    {
+      "id": "PYSEC-2026-2289",
+      "aliases": [
+        "CVE-2026-4372",
+        "GHSA-29pf-2h5f-8g72"
+      ],
+      "package": {
+        "ecosystem": "PyPI",
+        "name": "transformers",
+        "version": "4.57.6"
+      },
+      "severity": "UNKNOWN",
+      "relatedAdvisory": "GHSA-29pf-2h5f-8g72",
+      "status": "not_exercised_in_this_bounded_preparation_path",
+      "reason": "Advisory describes attacker config selecting remote attention kernels through AutoModelForCausalLM. This job uses explicit MarianMTModel with eager attention, hash-verified pinned config/model files, offline mode and local_files_only; no attacker model repository is accepted."
+    },
+    {
+      "id": "PYSEC-2026-2290",
+      "aliases": [
+        "CVE-2026-5241",
+        "GHSA-fgcw-684q-jj6r"
+      ],
+      "package": {
+        "ecosystem": "PyPI",
+        "name": "transformers",
+        "version": "4.57.6"
+      },
+      "severity": "UNKNOWN",
+      "relatedAdvisory": "GHSA-fgcw-684q-jj6r",
+      "status": "not_exercised_in_this_bounded_preparation_path",
+      "reason": "Advisory concerns LightGlue nested AutoConfig/AutoModel trust handling. This job constructs MarianMTModel/MarianTokenizer explicitly, never LightGlue/AutoModel, with trust_remote_code=False and hash-verified files."
+    },
+    {
+      "id": "PYSEC-2026-3929",
+      "aliases": [
+        "CVE-2026-9856",
+        "GHSA-xrqw-3rrv-vx5w"
+      ],
+      "package": {
+        "ecosystem": "PyPI",
+        "name": "transformers",
+        "version": "4.57.6"
+      },
+      "severity": "UNKNOWN",
+      "relatedAdvisory": "GHSA-xrqw-3rrv-vx5w",
+      "status": "not_exercised_in_this_bounded_preparation_path",
+      "reason": "Advisory concerns tokenizer/processor save_pretrained path traversal through chat_template keys. This job never calls save_pretrained, uses MarianTokenizer with a hash-verified tokenizer config, and has no chat_template/processor pipeline."
+    },
+    {
+      "id": "PYSEC-2026-4174",
+      "aliases": [
+        "CVE-2026-80047",
+        "GHSA-x9r9-c232-4q39"
+      ],
+      "package": {
+        "ecosystem": "PyPI",
+        "name": "transformers",
+        "version": "4.57.6"
+      },
+      "severity": "UNKNOWN",
+      "relatedAdvisory": "GHSA-x9r9-c232-4q39",
+      "status": "not_exercised_in_this_bounded_preparation_path",
+      "reason": "Advisory concerns remote custom generation download before consent. This job never calls load_custom_generate, pins generation_config.json without custom_generate, uses local_files_only and offline environment flags; no custom Python files are loaded."
+    }
+  ],
+  "constraints": [
+    "No claim that transformers4.57.6 has no advisories",
+    "No new translation dependencies or weights in Android APK",
+    "Do not reuse this private preparation venv for arbitrary untrusted models, Trainer, remote code, or a server without re-evaluating vulnerabilities",
+    "Root reviewed the path-specific triage; public OSV evidence remains in ignored validation report"
+  ],
+  "evidence": "build/reports/validation/m1-photo-refinements/labels-fr/osv.json"
+}
